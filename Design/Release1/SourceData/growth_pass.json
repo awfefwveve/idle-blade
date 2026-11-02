@@ -1,0 +1,107 @@
+[
+  {
+    "id": "PASS_01",
+    "stage": 10,
+    "free_gems": 50,
+    "paid_track_gems_free": 200,
+    "paid_track_weapon_tickets": 5
+  },
+  {
+    "id": "PASS_02",
+    "stage": 20,
+    "free_gems": 50,
+    "paid_track_gems_free": 200,
+    "paid_track_weapon_tickets": 5
+  },
+  {
+    "id": "PASS_03",
+    "stage": 40,
+    "free_gems": 50,
+    "paid_track_gems_free": 200,
+    "paid_track_weapon_tickets": 5
+  },
+  {
+    "id": "PASS_04",
+    "stage": 60,
+    "free_gems": 50,
+    "paid_track_gems_free": 200,
+    "paid_track_weapon_tickets": 5
+  },
+  {
+    "id": "PASS_05",
+    "stage": 80,
+    "free_gems": 50,
+    "paid_track_gems_free": 200,
+    "paid_track_weapon_tickets": 5
+  },
+  {
+    "id": "PASS_06",
+    "stage": 100,
+    "free_gems": 50,
+    "paid_track_gems_free": 200,
+    "paid_track_weapon_tickets": 5
+  },
+  {
+    "id": "PASS_07",
+    "stage": 130,
+    "free_gems": 50,
+    "paid_track_gems_free": 200,
+    "paid_track_weapon_tickets": 5
+  },
+  {
+    "id": "PASS_08",
+    "stage": 160,
+    "free_gems": 50,
+    "paid_track_gems_free": 200,
+    "paid_track_weapon_tickets": 5
+  },
+  {
+    "id": "PASS_09",
+    "stage": 200,
+    "free_gems": 50,
+    "paid_track_gems_free": 200,
+    "paid_track_weapon_tickets": 5
+  },
+  {
+    "id": "PASS_10",
+    "stage": 250,
+    "free_gems": 50,
+    "paid_track_gems_free": 200,
+    "paid_track_weapon_tickets": 5
+  },
+  {
+    "id": "PASS_11",
+    "stage": 300,
+    "free_gems": 50,
+    "paid_track_gems_free": 200,
+    "paid_track_weapon_tickets": 5
+  },
+  {
+    "id": "PASS_12",
+    "stage": 350,
+    "free_gems": 50,
+    "paid_track_gems_free": 200,
+    "paid_track_weapon_tickets": 5
+  },
+  {
+    "id": "PASS_13",
+    "stage": 400,
+    "free_gems": 50,
+    "paid_track_gems_free": 200,
+    "paid_track_weapon_tickets": 5
+  },
+  {
+    "id": "PASS_14",
+    "stage": 450,
+    "free_gems": 50,
+    "paid_track_gems_free": 200,
+    "paid_track_weapon_tickets": 5
+  },
+  {
+    "id": "PASS_15",
+    "stage": 500,
+    "free_gems": 50,
+    "paid_track_gems_free": 200,
+    "paid_track_weapon_tickets": 5
+  }
+]

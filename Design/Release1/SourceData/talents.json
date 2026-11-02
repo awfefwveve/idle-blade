@@ -1,0 +1,134 @@
+[
+  {
+    "id": "T_A1",
+    "name": "격노",
+    "branch": "A",
+    "depth": 1,
+    "requires": "",
+    "stat_key": "rage_damage_bonus_bp",
+    "value": 1000,
+    "point_cost": 1,
+    "max_rank": 1
+  },
+  {
+    "id": "T_A2",
+    "name": "광속",
+    "branch": "A",
+    "depth": 2,
+    "requires": "T_A1",
+    "stat_key": "rage_attack_speed_bonus_bp",
+    "value": 1000,
+    "point_cost": 1,
+    "max_rank": 1
+  },
+  {
+    "id": "T_A3",
+    "name": "진동",
+    "branch": "A",
+    "depth": 3,
+    "requires": "T_A2",
+    "stat_key": "rage_third_basic_wave_bp",
+    "value": 5000,
+    "point_cost": 1,
+    "max_rank": 1
+  },
+  {
+    "id": "T_A4",
+    "name": "끝없는포효",
+    "branch": "A",
+    "depth": 4,
+    "requires": "T_A3",
+    "stat_key": "rage_duration_ms",
+    "value": 2000,
+    "point_cost": 1,
+    "max_rank": 1
+  },
+  {
+    "id": "T_B1",
+    "name": "흡혈",
+    "branch": "B",
+    "depth": 1,
+    "requires": "",
+    "stat_key": "lifesteal_bp",
+    "value": 200,
+    "point_cost": 1,
+    "max_rank": 1
+  },
+  {
+    "id": "T_B2",
+    "name": "강철피부",
+    "branch": "B",
+    "depth": 2,
+    "requires": "T_B1",
+    "stat_key": "rage_damage_reduction_bp",
+    "value": 1000,
+    "point_cost": 1,
+    "max_rank": 1
+  },
+  {
+    "id": "T_B3",
+    "name": "끈질긴생명",
+    "branch": "B",
+    "depth": 3,
+    "requires": "T_B2",
+    "stat_key": "rage_regen_bp_per_sec",
+    "value": 100,
+    "point_cost": 1,
+    "max_rank": 1
+  },
+  {
+    "id": "T_B4",
+    "name": "죽지않는전사",
+    "branch": "B",
+    "depth": 4,
+    "requires": "T_B3",
+    "stat_key": "once_per_challenge_lethal_guard_ms",
+    "value": 1000,
+    "point_cost": 1,
+    "max_rank": 1
+  },
+  {
+    "id": "T_C1",
+    "name": "분노의씨앗",
+    "branch": "C",
+    "depth": 1,
+    "requires": "",
+    "stat_key": "rage_basic_flat_milli",
+    "value": 2000,
+    "point_cost": 1,
+    "max_rank": 1
+  },
+  {
+    "id": "T_C2",
+    "name": "지속되는광기",
+    "branch": "C",
+    "depth": 2,
+    "requires": "T_C1",
+    "stat_key": "rage_duration_ms",
+    "value": 2000,
+    "point_cost": 1,
+    "max_rank": 1
+  },
+  {
+    "id": "T_C3",
+    "name": "학살의기쁨",
+    "branch": "C",
+    "depth": 3,
+    "requires": "T_C2",
+    "stat_key": "rage_kill_gain_milli",
+    "value": 1000,
+    "point_cost": 1,
+    "max_rank": 1
+  },
+  {
+    "id": "T_C4",
+    "name": "전투준비",
+    "branch": "C",
+    "depth": 4,
+    "requires": "T_C3",
+    "stat_key": "challenge_start_rage_milli",
+    "value": 20000,
+    "point_cost": 1,
+    "max_rank": 1
+  }
+]

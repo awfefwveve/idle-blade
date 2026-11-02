@@ -1,0 +1,35 @@
+{
+  "generator": "built-in GPT image_gen",
+  "assets": [
+    {
+      "id": "mob-front",
+      "prompt": "Create a directional sprite variant of the reference goblin. FRONT VIEW, looking toward viewer, advancing toward the bottom of the image, both eyes visible. Preserve precisely its green skin, huge pointed ears, brown loincloth and straps, wooden round shield and small cleaver, proportions, dark colored outlines and pixel art style. Full body and feet visible centered with padding on square canvas, same character size. One single goblin, static running-ready pose. No ground, no UI, no words, no shadow. Genuine transparent alpha background. Clear hand-crafted pixel clusters and upper-left lighting.",
+      "file": "../../client/Assets/Resources/Art/Main/mob-front-v1.png",
+      "source": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-52a68c43-9331-49bf-8fbf-ff2715203b2e.png"
+    },
+    {
+      "id": "mob-back",
+      "prompt": "Create a directional sprite variant of the reference goblin. BACK VIEW, facing directly away from viewer, advancing toward the top of the image, back of head and back visible, NO face visible. Preserve precisely its green skin, huge pointed ears, brown loincloth and straps, wooden round shield and small cleaver, proportions, dark colored outlines and pixel art style. Full body and feet visible centered with padding on square canvas, same character size. One single goblin, static running-ready pose. No ground, no UI, no words, no shadow. Genuine transparent alpha background. Clear hand-crafted pixel clusters and upper-left lighting.",
+      "file": "../../client/Assets/Resources/Art/Main/mob-back-v1.png",
+      "source": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-cc643f7c-a9ae-437d-905f-0e432f934095.png"
+    },
+    {
+      "id": "mob-front-diagonal",
+      "prompt": "Directional variant of reference goblin: THREE QUARTER FRONT view, facing DOWN-RIGHT on the screen. Walking diagonally toward the viewer and to the right, both face and rightward body orientation readable. Preserve green skin, huge ears, brown loincloth, round wooden shield, small iron cleaver and the same pixel art style. Full body centered, feet fully visible, square canvas with generous padding, single static running-ready sprite. No ground, shadows, UI, text or extra characters. Actual transparent alpha background.",
+      "file": "../../client/Assets/Resources/Art/Main/mob-front-diagonal-v1.png",
+      "source": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-ff417875-0192-40bc-b0c1-5c3bfae91701.png"
+    },
+    {
+      "id": "mob-back-diagonal",
+      "prompt": "Directional variant of reference goblin: THREE QUARTER BACK view, facing UP-LEFT on the screen. Walking diagonally away from viewer to the left. Show mostly back of head, spine and back; no front face. Preserve green skin, huge ears, brown loincloth, round wooden shield, small iron cleaver and the same pixel art style. Full body centered, feet fully visible, square canvas with generous padding, single static running-ready sprite. No ground, shadows, UI, text or extra characters. Actual transparent alpha background.",
+      "file": "../../client/Assets/Resources/Art/Main/mob-back-diagonal-v1.png",
+      "source": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-7ef5a2f8-faa1-4b2e-ad74-1493086008ec.png"
+    },
+    {
+      "id": "cover",
+      "prompt": "Production foreground occluder strip for a barbarian pixel-art side-scrolling battlefield. Wide horizontal 3:1 canvas, continuous low ridge of dark slate rocks, broken timber stakes, a few tiny red cloth scraps and sparse dry grass. Rough irregular skyline, rocks fill bottom two thirds; top third entirely transparent, no sky and no backdrop. Lower edge filled with dark stone. Both sides reach edges for connecting strips. Crisp pixel clusters, upper-left light, muted grey brown, subdued detail so monsters remain readable above it. No characters, text, UI, symbols, giant spikes or flames. Actual transparent alpha above irregular rock silhouette.",
+      "file": "../../client/Assets/Resources/Art/Main/cover-v1.png",
+      "source": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-d87cf7c5-cc6a-4232-8bce-a6937f00aa7d.png"
+    }
+  ]
+}

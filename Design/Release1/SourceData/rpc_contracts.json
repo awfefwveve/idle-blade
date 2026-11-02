@@ -1,0 +1,266 @@
+[
+  {
+    "id": "bootstrap",
+    "input": "build, installation_id",
+    "effect": "계정 초기화·복구·방치 정산·전체 snapshot",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "farm_heartbeat",
+    "input": "last_confirmed_tick",
+    "effect": "정산·lease·delta·공지 배지",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "farm_set_stage",
+    "input": "stage_id",
+    "effect": "허용범위 검사·구상태 정산·새 상태",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "stat_upgrade",
+    "input": "stat_id, count=1/10/max",
+    "effect": "누적 비용 검증·Wallet·레벨",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "gear_equip",
+    "input": "slot, item_id",
+    "effect": "사용권 검사·장착·새 build_hash",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "gear_enhance",
+    "input": "slot, count",
+    "effect": "광석·골드·슬롯 강화",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "gear_merge",
+    "input": "item_id/count 또는 all/견적 hash",
+    "effect": "중복 소비·상위 사용권·도감",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "gear_salvage",
+    "input": "item_id, count",
+    "effect": "잠금 검사·중복 차감·광석",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "gear_reserve",
+    "input": "item_id, reserved_duplicates",
+    "effect": "합성·분해 보호 수량",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "skill_equip",
+    "input": "preset_id, ordered_skill_ids",
+    "effect": "슬롯·중복·쿨다운 규칙",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "skill_upgrade",
+    "input": "skill_id, count",
+    "effect": "조각·가루·레벨",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "skill_exchange",
+    "input": "skill_id, fragments",
+    "effect": "만렙 조건·가루 전환",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "talent_allocate",
+    "input": "node_ids",
+    "effect": "포인트·선행·상한·재설정",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "preset_apply",
+    "input": "preset_id",
+    "effect": "무기·방어구·스킬·특성 일괄 적용",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "artifact_craft",
+    "input": "artifact_id",
+    "effect": "조각 차감·level1",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "artifact_upgrade",
+    "input": "artifact_id, count",
+    "effect": "조각 차감·레벨",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "challenge_start",
+    "input": "mode, target_id, preset_id",
+    "effect": "예약·스냅샷·서버 시뮬레이션",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "challenge_finish",
+    "input": "challenge_id",
+    "effect": "실시간 확인·결과·보상 1회",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "challenge_abandon",
+    "input": "challenge_id",
+    "effect": "유효 시각 확인·예약 해제",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "dungeon_sweep",
+    "input": "dungeon_id, level, count",
+    "effect": "최초 성공 검사·횟수·동일 보상",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "summon",
+    "input": "banner_id, count=1/10",
+    "effect": "무료/티켓/보석·결과·천장 원자 처리",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "claim_activity",
+    "input": "kind, date_or_week_key",
+    "effect": "조건·기수령 검사·보상",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "claim_attendance",
+    "input": "cycle_index",
+    "effect": "하루 1회·누적 출석",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "claim_growth_pass",
+    "input": "milestone_ids",
+    "effect": "무료/유료 권한·소급 수령",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "claim_monthly",
+    "input": "entitlement_id",
+    "effect": "발생 회차·잔여 지급권",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "ad_prepare",
+    "input": "placement, context_id",
+    "effect": "nonce·사용자·보상·횟수 예약",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "ad_claim",
+    "input": "nonce",
+    "effect": "검증 콜백 확인 또는 제거 권한",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "purchase_verify",
+    "input": "platform, sdk_payload",
+    "effect": "서버 영수증 검증·지급 상태",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "purchase_restore",
+    "input": "platform, purchase_refs",
+    "effect": "영구 권한·미지급 복구",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "mailbox_list",
+    "input": "cursor / mail_ids",
+    "effect": "페이지 조회·일괄 원자 수령",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "mailbox_claim",
+    "input": "cursor / mail_ids",
+    "effect": "페이지 조회·일괄 원자 수령",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "account_delete_request",
+    "input": "reauth_confirmation",
+    "effect": "재인증·삭제 프로세스 등록",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  },
+  {
+    "id": "telemetry_batch",
+    "input": "allowlisted events",
+    "effect": "비경제 이벤트만·크기/빈도 제한",
+    "authority": "Nakama Go",
+    "idempotency": "request_id + payload_hash",
+    "schema_version": 1
+  }
+]

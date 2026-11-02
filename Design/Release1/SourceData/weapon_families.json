@@ -1,0 +1,29 @@
+[
+  {
+    "id": "AXE",
+    "name": "도끼",
+    "attack_coefficient_bp": 10000,
+    "base_interval_ms": 800,
+    "range_mm": 1600,
+    "targets": 3,
+    "identity": "짧은 주기로 분노 축적; 균형형"
+  },
+  {
+    "id": "SWORD",
+    "name": "대검",
+    "attack_coefficient_bp": 14000,
+    "base_interval_ms": 1100,
+    "range_mm": 2200,
+    "targets": 5,
+    "identity": "긴 사거리와 넓은 평타; 군단 사냥형"
+  },
+  {
+    "id": "HAMMER",
+    "name": "망치",
+    "attack_coefficient_bp": 20000,
+    "base_interval_ms": 1600,
+    "range_mm": 1800,
+    "targets": 4,
+    "identity": "묵직한 타격; 세 번째 평타 일반몹 0.2초 경직, 보스 면역"
+  }
+]

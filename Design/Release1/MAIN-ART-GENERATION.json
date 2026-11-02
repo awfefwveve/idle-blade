@@ -1,0 +1,181 @@
+{
+  "generator": "built-in GPT image_gen",
+  "batch": "main-screen-v1",
+  "status": "first static asset pass; runtime wired, Unity visual review interrupted by user Escape",
+  "assets": [
+    {
+      "id": "bg",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-f85f49ec-f648-4766-b136-090254a85524.png",
+      "prompt": "Use case: stylized-concept. Production game asset: wide 16:9 background only for Korean barbarian idle RPG. Hand-crafted crisp pixel art, restrained 3-4 shade clusters, dark colored outlines, warm leather and torch orange, cool slate blue distant mountains. A weathered tribal fortress along an ash forest mountain pass, wooden palisades with small red banners at far sides, distant cliffs and mist, open unobstructed fighting ground across entire lower third. Side-scroller orthographic side view, level ground at 70% height. Upper center relatively quiet sky. No characters, monsters, weapons, UI, words, text, symbols, numbers or logos. Left and right edges must join into a seamless horizontal scrolling environment, both end in matching trees/rock ground, no large unique central landmark. Detailed tasteful pixel scenery, not painterly or photorealistic. Native-looking 640x360 pixel composition enlarged cleanly, no blur. Entire image opaque.",
+      "file": "../../client/Assets/Resources/Art/Main/bg-v1.png"
+    },
+    {
+      "id": "hero",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-9f0ad504-2a5a-42dc-ab54-4a07feb245bd.png",
+      "prompt": "Use case: stylized-concept. Asset type: single transparent pixel-art game character, full body barbarian hero base pose, facing right in three-quarter side view. Dark brown short mohawk with small tied braid, black beard, determined eyes, muscular stocky proportions, broad shoulders, warm tan skin, one dark iron shoulder plate, fur collar, worn leather belt and skirt, leather boots. Both hands empty, forward hand closed ready to grip a separate axe. Grounded combat ready stance. Entire figure and feet visible, centered with generous padding. NO weapon, no ground, no cast shadow, no scene, no UI, no words. Actual transparent alpha background. Hand-crafted crisp low-resolution pixel art with consistent square clusters, dark colored 1 pixel outline, 3-4 shades per material, upper left light. Body silhouette designed to remain clear at 64 pixels tall, not a painterly illustration. Palette dark iron #45434B warm skin #D99767 leather #98633D ivory fur #E8D9B8 dark outline #211B20, little restrained red cloth. Square canvas. Premium readable mobile action RPG sprite.",
+      "file": "../../client/Assets/Resources/Art/Main/hero-v1.png"
+    },
+    {
+      "id": "axe",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-e83d6866-1151-4d6c-81ce-27c4c782f7ee.png",
+      "prompt": "A single rugged double-bladed barbarian axe, long leather-wrapped dark wood handle, dark iron head with bright chipped silver cutting edges and small red cloth tie. Head at top, handle vertically down, straight front-on side silhouette, no perspective foreshortening. Readable at 64x64. Production pixel-art asset for a barbarian side-scroller RPG. Crisp square pixels, dark colored outline, 3-4 shade clusters, upper left lighting, warm leather #98633D, dark iron #45434B, ivory #E8D9B8, restrained red #B6322D. No text, UI, ground, shadow, watermark. Actual transparent alpha, full object with padding.",
+      "file": "../../client/Assets/Resources/Art/Main/axe-v1.png"
+    },
+    {
+      "id": "mob",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-475105f2-4bfa-430a-a1bf-52a4cac7f691.png",
+      "prompt": "A single small snarling green goblin raider, full body facing LEFT in three-quarter side view. Oversized pointed ears, red eyes, brown leather loincloth, round small wooden shield, one short crude iron cleaver. Squat large head and small legs, readable at 48x48. Ready to run toward the left. Production pixel-art asset for a barbarian side-scroller RPG. Crisp square pixels, dark colored outline, 3-4 shade clusters, upper left lighting, warm leather #98633D, dark iron #45434B, ivory #E8D9B8, restrained red #B6322D. No text, UI, ground, shadow, watermark. Actual transparent alpha, full object with padding.",
+      "file": "../../client/Assets/Resources/Art/Main/mob-v1.png"
+    },
+    {
+      "id": "boss",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-6ba21db0-9c89-4f4a-a513-2460ff96a8ca.png",
+      "prompt": "A single hulking grey-green orc warlord, full body facing LEFT in three-quarter side view, massive shoulders, bone tusks, dark mohawk, dark iron spiked shoulder plates, red leather waist cloth, enormous crude iron mace held at side. Enemy silhouette clearly different from human hero. Readable at128x128. Production pixel-art asset for a barbarian side-scroller RPG. Crisp square pixels, dark colored outline, 3-4 shade clusters, upper left lighting, warm leather #98633D, dark iron #45434B, ivory #E8D9B8, restrained red #B6322D. No text, UI, ground, shadow, watermark. Actual transparent alpha, full object with padding.",
+      "file": "../../client/Assets/Resources/Art/Main/boss-v1.png"
+    },
+    {
+      "id": "panel",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-848e83d8-aa0d-4b5f-b0e1-27f2e5f7dfd7.png",
+      "prompt": "Use case: stylized-concept. Single production game UI panel texture, landscape 3:2 rectangle, straight-on orthographic. Barbarian fantasy game pixel art, crisp stepped pixels, dark charcoal leather interior EMPTY FLAT dark #19171B, slim layered dark iron edge and bronze bevel, tiny restrained iron rivets at four corners, squared corners with tiny bevels, no skulls or large ornaments. Entire outer rectangle fills canvas evenly with 3% transparent padding. Central 70% nearly uniform empty charcoal, suitable for clean text overlay. Symmetrical border uniform thickness 8% canvas, designed for nine-slice resizing to different widths. Upper left highlight, warm bronze #9A7344, iron #45434B. NO words, icons, symbols, text, letters, watermark or content inside. Actual transparent outside only, opaque interior.",
+      "file": "../../client/Assets/Resources/Art/Main/panel-v1.png"
+    },
+    {
+      "id": "gold",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-aeced643-4bb1-41e4-9b84-0e1bd4428215.png",
+      "prompt": "Use case: stylized-concept. One single game inventory icon: one thick ancient gold coin, embossed simple angular sun symbol. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Gold #D9AC58, iron #45434B, red #B6322D as appropriate. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/gold-v1.png"
+    },
+    {
+      "id": "gem",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-da52aa9b-98fd-4e43-9684-006fa88d61ae.png",
+      "prompt": "Use case: stylized-concept. One single game inventory icon: one brilliant faceted cyan blue diamond. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Gold #D9AC58, iron #45434B, red #B6322D as appropriate. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/gem-v1.png"
+    },
+    {
+      "id": "meat",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-1b5cc2ae-5a9e-47c0-95d2-f4df95e532cb.png",
+      "prompt": "Use case: stylized-concept. One single game inventory icon: one roasted meat drumstick with small ivory bone. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Gold #D9AC58, iron #45434B, red #B6322D as appropriate. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/meat-v1.png"
+    },
+    {
+      "id": "rage",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-ab7155e7-9ad2-4b95-a4ec-067f06f6ad2b.png",
+      "prompt": "Use case: stylized-concept. One single game inventory icon: one fierce red-orange flame with two tiny bright eyes. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Gold #D9AC58, iron #45434B, red #B6322D as appropriate. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/rage-v1.png"
+    },
+    {
+      "id": "battle",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-03a48ee9-5842-41af-b045-6dffc52ab0e5.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: two crossed rugged iron axes with leather handles. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Palette warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow beyond object.",
+      "file": "../../client/Assets/Resources/Art/Main/battle-v1.png"
+    },
+    {
+      "id": "awakening",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-b77c1853-96cf-4b83-8a30-822464e1acdb.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a clenched muscular fist surrounded by a compact orange flame. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Palette warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow beyond object.",
+      "file": "../../client/Assets/Resources/Art/Main/awakening-v1.png"
+    },
+    {
+      "id": "dungeon",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-aa23de26-d283-401c-bb2e-85a27f98efbe.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: an iron barred stone dungeon doorway. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Palette warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow beyond object.",
+      "file": "../../client/Assets/Resources/Art/Main/dungeon-v1.png"
+    },
+    {
+      "id": "shop",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-8bce8b2c-d471-4f8f-aa93-7b0cd0aff604.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a small wooden merchant stall with red cloth awning. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Palette warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow beyond object.",
+      "file": "../../client/Assets/Resources/Art/Main/shop-v1.png"
+    },
+    {
+      "id": "summon",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-f2a67974-668f-45fe-b21a-d2aa73b3adc3.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a violet magical circular portal with bright center. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Palette warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow beyond object.",
+      "file": "../../client/Assets/Resources/Art/Main/summon-v1.png"
+    },
+    {
+      "id": "pass",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-523d3e5d-97d5-484d-90ec-bb4b755db2fb.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a bronze crown with red cloth banner. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Palette warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow beyond object.",
+      "file": "../../client/Assets/Resources/Art/Main/pass-v1.png"
+    },
+    {
+      "id": "equipment",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-3490e373-f35a-410d-b86c-dc6e21efcf04.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a rugged dark iron barbarian helmet with cheek guards. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Restrained warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8, leather #98633D. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/equipment-v1.png"
+    },
+    {
+      "id": "armor",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-722c8377-da6c-498b-99ba-64a3d0cc2ff9.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a heavy dark iron shoulder armor with leather straps and ivory fur. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Restrained warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8, leather #98633D. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/armor-v1.png"
+    },
+    {
+      "id": "skill",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-af58bf45-474c-458e-a567-cebe9439b831.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a closed dark leather spellbook with a red flame emblem. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Restrained warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8, leather #98633D. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/skill-v1.png"
+    },
+    {
+      "id": "promotion",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-7bac87f1-a086-4e3f-8e14-86a202faf371.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a bronze five pointed medal with crossed small blades. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Restrained warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8, leather #98633D. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/promotion-v1.png"
+    },
+    {
+      "id": "relic",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-dfd812eb-e360-4a78-b804-8358a4b8a9e6.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a blue oval gemstone held in an ancient dark iron amulet. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Restrained warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8, leather #98633D. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/relic-v1.png"
+    },
+    {
+      "id": "collection",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-f4556eda-5e2c-4747-a459-f139fd3e9584.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a closed brown leather bestiary book with a small ivory skull emblem. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Restrained warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8, leather #98633D. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/collection-v1.png"
+    },
+    {
+      "id": "quest",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-ea76f273-b55d-4520-bada-44da14c6079d.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a rolled ivory parchment scroll bound by dark wood rods. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Restrained warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8, leather #98633D. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/quest-v1.png"
+    },
+    {
+      "id": "mail",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-5a02b2e7-f505-4d49-adb1-bf4121cb9ed4.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a folded ivory envelope sealed with red wax. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Restrained warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8, leather #98633D. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/mail-v1.png"
+    },
+    {
+      "id": "achievement",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-c168cb11-4468-4b4d-b6ff-aec6029cd21a.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a bronze trophy cup with two large handles. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Restrained warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8, leather #98633D. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/achievement-v1.png"
+    },
+    {
+      "id": "event",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-91d12078-3605-4d67-8b6d-83a0c66be619.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a wrapped dark red gift box with bronze ribbon. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Restrained warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8, leather #98633D. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/event-v1.png"
+    },
+    {
+      "id": "title",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-e0df7384-0030-48f7-a9b7-bcfe5ec19ed8.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a bronze tribal shield crest with a small ivory horn on each side. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Restrained warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8, leather #98633D. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/title-v1.png"
+    },
+    {
+      "id": "notice",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-b572a7ec-b46a-47c8-8df0-ac58ee136c61.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a curved animal horn bound with leather and bronze. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Restrained warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8, leather #98633D. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/notice-v1.png"
+    },
+    {
+      "id": "settings",
+      "path": "C:\\Users\\USER\\.codex\\generated_images\\01a0e108-c127-7451-ba0d-2136ff8330aa\\exec-d44aad44-9dc4-4b79-a860-f7518321267e.png",
+      "prompt": "Use case: stylized-concept. One single game menu icon: a heavy dark iron gear with bronze center. Square canvas, isolated centered object occupying 80%, actual transparent alpha background. Barbarian pixel art RPG, chunky readable silhouette at32x32, dark colored pixel outline, 3-4 shades, clean hard square pixels, upper left light. Restrained warm bronze #D9AC58, dark iron #45434B, red #B6322D, ivory #E8D9B8, leather #98633D. No badge, frame, UI, text, letters, numbers, ground or cast shadow. No soft glow.",
+      "file": "../../client/Assets/Resources/Art/Main/settings-v1.png"
+    }
+  ]
+}

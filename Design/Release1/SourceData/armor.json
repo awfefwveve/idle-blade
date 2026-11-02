@@ -1,0 +1,182 @@
+[
+  {
+    "id": "A_HEAD_G1",
+    "name": "거친 투구",
+    "slot": "HEAD",
+    "grade": 1,
+    "hp_bonus_bp": 500,
+    "salvage_ore": 1,
+    "next_id": "A_HEAD_G2",
+    "asset_key": "armor/head/g1"
+  },
+  {
+    "id": "A_HEAD_G2",
+    "name": "강철 투구",
+    "slot": "HEAD",
+    "grade": 2,
+    "hp_bonus_bp": 825,
+    "salvage_ore": 3,
+    "next_id": "A_HEAD_G3",
+    "asset_key": "armor/head/g2"
+  },
+  {
+    "id": "A_HEAD_G3",
+    "name": "수호자의 투구",
+    "slot": "HEAD",
+    "grade": 3,
+    "hp_bonus_bp": 1350,
+    "salvage_ore": 10,
+    "next_id": "A_HEAD_G4",
+    "asset_key": "armor/head/g3"
+  },
+  {
+    "id": "A_HEAD_G4",
+    "name": "광전사의 투구",
+    "slot": "HEAD",
+    "grade": 4,
+    "hp_bonus_bp": 2200,
+    "salvage_ore": 30,
+    "next_id": "A_HEAD_G5",
+    "asset_key": "armor/head/g4"
+  },
+  {
+    "id": "A_HEAD_G5",
+    "name": "왕의 투구",
+    "slot": "HEAD",
+    "grade": 5,
+    "hp_bonus_bp": 3600,
+    "salvage_ore": 100,
+    "next_id": "A_HEAD_G6",
+    "asset_key": "armor/head/g5"
+  },
+  {
+    "id": "A_HEAD_G6",
+    "name": "태고의 투구",
+    "slot": "HEAD",
+    "grade": 6,
+    "hp_bonus_bp": 6000,
+    "salvage_ore": 300,
+    "next_id": "",
+    "asset_key": "armor/head/g6"
+  },
+  {
+    "id": "A_BODY_G1",
+    "name": "거친 갑옷",
+    "slot": "BODY",
+    "grade": 1,
+    "hp_bonus_bp": 1000,
+    "salvage_ore": 1,
+    "next_id": "A_BODY_G2",
+    "asset_key": "armor/body/g1"
+  },
+  {
+    "id": "A_BODY_G2",
+    "name": "강철 갑옷",
+    "slot": "BODY",
+    "grade": 2,
+    "hp_bonus_bp": 1650,
+    "salvage_ore": 3,
+    "next_id": "A_BODY_G3",
+    "asset_key": "armor/body/g2"
+  },
+  {
+    "id": "A_BODY_G3",
+    "name": "수호자의 갑옷",
+    "slot": "BODY",
+    "grade": 3,
+    "hp_bonus_bp": 2700,
+    "salvage_ore": 10,
+    "next_id": "A_BODY_G4",
+    "asset_key": "armor/body/g3"
+  },
+  {
+    "id": "A_BODY_G4",
+    "name": "광전사의 갑옷",
+    "slot": "BODY",
+    "grade": 4,
+    "hp_bonus_bp": 4400,
+    "salvage_ore": 30,
+    "next_id": "A_BODY_G5",
+    "asset_key": "armor/body/g4"
+  },
+  {
+    "id": "A_BODY_G5",
+    "name": "왕의 갑옷",
+    "slot": "BODY",
+    "grade": 5,
+    "hp_bonus_bp": 7200,
+    "salvage_ore": 100,
+    "next_id": "A_BODY_G6",
+    "asset_key": "armor/body/g5"
+  },
+  {
+    "id": "A_BODY_G6",
+    "name": "태고의 갑옷",
+    "slot": "BODY",
+    "grade": 6,
+    "hp_bonus_bp": 12000,
+    "salvage_ore": 300,
+    "next_id": "",
+    "asset_key": "armor/body/g6"
+  },
+  {
+    "id": "A_FEET_G1",
+    "name": "거친 장화",
+    "slot": "FEET",
+    "grade": 1,
+    "hp_bonus_bp": 500,
+    "salvage_ore": 1,
+    "next_id": "A_FEET_G2",
+    "asset_key": "armor/feet/g1"
+  },
+  {
+    "id": "A_FEET_G2",
+    "name": "강철 장화",
+    "slot": "FEET",
+    "grade": 2,
+    "hp_bonus_bp": 825,
+    "salvage_ore": 3,
+    "next_id": "A_FEET_G3",
+    "asset_key": "armor/feet/g2"
+  },
+  {
+    "id": "A_FEET_G3",
+    "name": "수호자의 장화",
+    "slot": "FEET",
+    "grade": 3,
+    "hp_bonus_bp": 1350,
+    "salvage_ore": 10,
+    "next_id": "A_FEET_G4",
+    "asset_key": "armor/feet/g3"
+  },
+  {
+    "id": "A_FEET_G4",
+    "name": "광전사의 장화",
+    "slot": "FEET",
+    "grade": 4,
+    "hp_bonus_bp": 2200,
+    "salvage_ore": 30,
+    "next_id": "A_FEET_G5",
+    "asset_key": "armor/feet/g4"
+  },
+  {
+    "id": "A_FEET_G5",
+    "name": "왕의 장화",
+    "slot": "FEET",
+    "grade": 5,
+    "hp_bonus_bp": 3600,
+    "salvage_ore": 100,
+    "next_id": "A_FEET_G6",
+    "asset_key": "armor/feet/g5"
+  },
+  {
+    "id": "A_FEET_G6",
+    "name": "태고의 장화",
+    "slot": "FEET",
+    "grade": 6,
+    "hp_bonus_bp": 6000,
+    "salvage_ore": 300,
+    "next_id": "",
+    "asset_key": "armor/feet/g6"
+  }
+]

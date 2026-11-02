@@ -1,0 +1,97 @@
+[
+  {
+    "required_cleared_stage": 0,
+    "id": "FARM",
+    "description": "자동사냥"
+  },
+  {
+    "required_cleared_stage": 0,
+    "id": "STAT",
+    "description": "공격력·체력 강화"
+  },
+  {
+    "required_cleared_stage": 1,
+    "id": "WEAPON",
+    "description": "고급 도끼 확정 지급·무기 교체"
+  },
+  {
+    "required_cleared_stage": 2,
+    "id": "SUMMON_GEAR",
+    "description": "무기·방어구 소환"
+  },
+  {
+    "required_cleared_stage": 3,
+    "id": "SKILL_1",
+    "description": "회전베기·첫 스킬 슬롯"
+  },
+  {
+    "required_cleared_stage": 3,
+    "id": "ASPD",
+    "description": "공격속도 강화"
+  },
+  {
+    "required_cleared_stage": 5,
+    "id": "CODEX",
+    "description": "도감·치명타 강화"
+  },
+  {
+    "required_cleared_stage": 8,
+    "id": "SKILL_2",
+    "description": "도약강타·두 번째 슬롯·스킬 소환"
+  },
+  {
+    "required_cleared_stage": 10,
+    "id": "GOLD_DUNGEON",
+    "description": "골드 던전·회복 강화"
+  },
+  {
+    "required_cleared_stage": 15,
+    "id": "GEAR_DUNGEON",
+    "description": "장비 던전·지면분쇄"
+  },
+  {
+    "required_cleared_stage": 20,
+    "id": "PROMOTION",
+    "description": "첫 승급 도전·전쟁함성"
+  },
+  {
+    "required_cleared_stage": 20,
+    "id": "SKILL_3",
+    "description": "세 번째 스킬 슬롯"
+  },
+  {
+    "required_cleared_stage": 25,
+    "id": "TOWER",
+    "description": "시련의 탑"
+  },
+  {
+    "required_cleared_stage": 30,
+    "id": "RELIC",
+    "description": "유물 제작"
+  },
+  {
+    "required_cleared_stage": 40,
+    "id": "S05",
+    "description": "투척도끼"
+  },
+  {
+    "required_cleared_stage": 60,
+    "id": "S06",
+    "description": "야만돌진"
+  },
+  {
+    "required_cleared_stage": 100,
+    "id": "S07",
+    "description": "피의참격"
+  },
+  {
+    "required_cleared_stage": 150,
+    "id": "S08",
+    "description": "선조의철퇴"
+  },
+  {
+    "required_cleared_stage": 500,
+    "id": "ENDING",
+    "description": "본편 완주·왕좌 외형·잔여 수집"
+  }
+]

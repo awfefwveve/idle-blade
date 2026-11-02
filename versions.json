@@ -1,0 +1,8 @@
+{
+  "unity": "6000.3.25f1",
+  "nakama": "3.41.0",
+  "postgres": "17.11-alpine",
+  "nodeForTests": "24.21.0",
+  "target": "Android first, landscape 2D; iOS later",
+  "status": "2026-09-27: Unity Editor play and live Nakama/PostgreSQL smoke tests passed; Android build not yet verified"
+}

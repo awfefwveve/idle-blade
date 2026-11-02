@@ -1,0 +1,45 @@
+[
+  {
+    "day": 1,
+    "rewards": {
+      "gems_free": 20
+    }
+  },
+  {
+    "day": 2,
+    "rewards": {
+      "gems_free": 20
+    }
+  },
+  {
+    "day": 3,
+    "rewards": {
+      "gems_free": 30
+    }
+  },
+  {
+    "day": 4,
+    "rewards": {
+      "gems_free": 30
+    }
+  },
+  {
+    "day": 5,
+    "rewards": {
+      "gems_free": 30
+    }
+  },
+  {
+    "day": 6,
+    "rewards": {
+      "gems_free": 30
+    }
+  },
+  {
+    "day": 7,
+    "rewards": {
+      "gems_free": 50,
+      "ticket_weapon": 10
+    }
+  }
+]

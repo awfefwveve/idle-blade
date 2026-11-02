@@ -1,0 +1,106 @@
+[
+  {
+    "id": "P00",
+    "name": "범위·원천 데이터 고정",
+    "first_sequence": 1,
+    "last_sequence": 4,
+    "gate": "1.0 범위와 데이터 단일 원천 승인",
+    "completion_task": "P00-04"
+  },
+  {
+    "id": "P01",
+    "name": "개발 환경·서버 기반",
+    "first_sequence": 5,
+    "last_sequence": 11,
+    "gate": "실기기에서 staging 로그인·RPC 성공",
+    "completion_task": "P01-07"
+  },
+  {
+    "id": "P02",
+    "name": "순수 전투 코어",
+    "first_sequence": 12,
+    "last_sequence": 20,
+    "gate": "C#과 Go의 기초 전투 결과 일치",
+    "completion_task": "P02-09"
+  },
+  {
+    "id": "P03",
+    "name": "플레이 가능한 수직 단면",
+    "first_sequence": 21,
+    "last_sequence": 27,
+    "gate": "사냥→강화→광폭→무기→보스 재미 확인",
+    "completion_task": "P03-07"
+  },
+  {
+    "id": "P04",
+    "name": "서버 권한·저장·경제",
+    "first_sequence": 28,
+    "last_sequence": 36,
+    "gate": "서버에서 첫 보스와 재접속 무결성 통과",
+    "completion_task": "P04-09"
+  },
+  {
+    "id": "P05",
+    "name": "장비·기본 성장 완성",
+    "first_sequence": 37,
+    "last_sequence": 44,
+    "gate": "36개 장비·6스탯·소유권 규칙 완성",
+    "completion_task": "P05-08"
+  },
+  {
+    "id": "P06",
+    "name": "스킬·분노 특성·승급·유물",
+    "first_sequence": 45,
+    "last_sequence": 51,
+    "gate": "전투 조합과 장기 성장 완성",
+    "completion_task": "P06-07"
+  },
+  {
+    "id": "P07",
+    "name": "본편·던전·탑 콘텐츠",
+    "first_sequence": 52,
+    "last_sequence": 59,
+    "gate": "1.0 콘텐츠 끝까지 진행 가능",
+    "completion_task": "P07-08"
+  },
+  {
+    "id": "P08",
+    "name": "방치·미션·복귀 루프",
+    "first_sequence": 60,
+    "last_sequence": 66,
+    "gate": "종료·복귀·일일 초기화 안정화",
+    "completion_task": "P08-07"
+  },
+  {
+    "id": "P09",
+    "name": "픽셀·UI·사운드 제작 마감",
+    "first_sequence": 67,
+    "last_sequence": 73,
+    "gate": "완성 외형으로도 정보와 성능 유지",
+    "completion_task": "P09-07"
+  },
+  {
+    "id": "P10",
+    "name": "소환·광고·결제",
+    "first_sequence": 74,
+    "last_sequence": 82,
+    "gate": "실거래 sandbox에서 지급/복원 일관성",
+    "completion_task": "P10-09"
+  },
+  {
+    "id": "P11",
+    "name": "운영·분석·성능·밸런스",
+    "first_sequence": 83,
+    "last_sequence": 91,
+    "gate": "릴리스 후보의 운영 복구와 경제 검증",
+    "completion_task": "P11-09"
+  },
+  {
+    "id": "P12",
+    "name": "출시 검수·배포",
+    "first_sequence": 92,
+    "last_sequence": 97,
+    "gate": "스토어/보안/운영 체크 전부 통과",
+    "completion_task": "P12-06"
+  }
+]

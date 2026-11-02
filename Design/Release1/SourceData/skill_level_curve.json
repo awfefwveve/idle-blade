@@ -1,0 +1,212 @@
+[
+  {
+    "level": 1,
+    "damage_multiplier_bp": 10000,
+    "warcry_attack_bonus_bp": 2500,
+    "next_fragments": 1,
+    "next_dust": 20
+  },
+  {
+    "level": 2,
+    "damage_multiplier_bp": 10300,
+    "warcry_attack_bonus_bp": 2550,
+    "next_fragments": 1,
+    "next_dust": 80
+  },
+  {
+    "level": 3,
+    "damage_multiplier_bp": 10600,
+    "warcry_attack_bonus_bp": 2600,
+    "next_fragments": 1,
+    "next_dust": 180
+  },
+  {
+    "level": 4,
+    "damage_multiplier_bp": 10900,
+    "warcry_attack_bonus_bp": 2650,
+    "next_fragments": 1,
+    "next_dust": 320
+  },
+  {
+    "level": 5,
+    "damage_multiplier_bp": 11200,
+    "warcry_attack_bonus_bp": 2700,
+    "next_fragments": 1,
+    "next_dust": 500
+  },
+  {
+    "level": 6,
+    "damage_multiplier_bp": 11500,
+    "warcry_attack_bonus_bp": 2750,
+    "next_fragments": 2,
+    "next_dust": 720
+  },
+  {
+    "level": 7,
+    "damage_multiplier_bp": 11800,
+    "warcry_attack_bonus_bp": 2800,
+    "next_fragments": 2,
+    "next_dust": 980
+  },
+  {
+    "level": 8,
+    "damage_multiplier_bp": 12100,
+    "warcry_attack_bonus_bp": 2850,
+    "next_fragments": 2,
+    "next_dust": 1280
+  },
+  {
+    "level": 9,
+    "damage_multiplier_bp": 12400,
+    "warcry_attack_bonus_bp": 2900,
+    "next_fragments": 2,
+    "next_dust": 1620
+  },
+  {
+    "level": 10,
+    "damage_multiplier_bp": 12700,
+    "warcry_attack_bonus_bp": 2950,
+    "next_fragments": 2,
+    "next_dust": 2000
+  },
+  {
+    "level": 11,
+    "damage_multiplier_bp": 13000,
+    "warcry_attack_bonus_bp": 3000,
+    "next_fragments": 3,
+    "next_dust": 2420
+  },
+  {
+    "level": 12,
+    "damage_multiplier_bp": 13300,
+    "warcry_attack_bonus_bp": 3050,
+    "next_fragments": 3,
+    "next_dust": 2880
+  },
+  {
+    "level": 13,
+    "damage_multiplier_bp": 13600,
+    "warcry_attack_bonus_bp": 3100,
+    "next_fragments": 3,
+    "next_dust": 3380
+  },
+  {
+    "level": 14,
+    "damage_multiplier_bp": 13900,
+    "warcry_attack_bonus_bp": 3150,
+    "next_fragments": 3,
+    "next_dust": 3920
+  },
+  {
+    "level": 15,
+    "damage_multiplier_bp": 14200,
+    "warcry_attack_bonus_bp": 3200,
+    "next_fragments": 3,
+    "next_dust": 4500
+  },
+  {
+    "level": 16,
+    "damage_multiplier_bp": 14500,
+    "warcry_attack_bonus_bp": 3250,
+    "next_fragments": 4,
+    "next_dust": 5120
+  },
+  {
+    "level": 17,
+    "damage_multiplier_bp": 14800,
+    "warcry_attack_bonus_bp": 3300,
+    "next_fragments": 4,
+    "next_dust": 5780
+  },
+  {
+    "level": 18,
+    "damage_multiplier_bp": 15100,
+    "warcry_attack_bonus_bp": 3350,
+    "next_fragments": 4,
+    "next_dust": 6480
+  },
+  {
+    "level": 19,
+    "damage_multiplier_bp": 15400,
+    "warcry_attack_bonus_bp": 3400,
+    "next_fragments": 4,
+    "next_dust": 7220
+  },
+  {
+    "level": 20,
+    "damage_multiplier_bp": 15700,
+    "warcry_attack_bonus_bp": 3450,
+    "next_fragments": 4,
+    "next_dust": 8000
+  },
+  {
+    "level": 21,
+    "damage_multiplier_bp": 16000,
+    "warcry_attack_bonus_bp": 3500,
+    "next_fragments": 5,
+    "next_dust": 8820
+  },
+  {
+    "level": 22,
+    "damage_multiplier_bp": 16300,
+    "warcry_attack_bonus_bp": 3550,
+    "next_fragments": 5,
+    "next_dust": 9680
+  },
+  {
+    "level": 23,
+    "damage_multiplier_bp": 16600,
+    "warcry_attack_bonus_bp": 3600,
+    "next_fragments": 5,
+    "next_dust": 10580
+  },
+  {
+    "level": 24,
+    "damage_multiplier_bp": 16900,
+    "warcry_attack_bonus_bp": 3650,
+    "next_fragments": 5,
+    "next_dust": 11520
+  },
+  {
+    "level": 25,
+    "damage_multiplier_bp": 17200,
+    "warcry_attack_bonus_bp": 3700,
+    "next_fragments": 5,
+    "next_dust": 12500
+  },
+  {
+    "level": 26,
+    "damage_multiplier_bp": 17500,
+    "warcry_attack_bonus_bp": 3750,
+    "next_fragments": 6,
+    "next_dust": 13520
+  },
+  {
+    "level": 27,
+    "damage_multiplier_bp": 17800,
+    "warcry_attack_bonus_bp": 3800,
+    "next_fragments": 6,
+    "next_dust": 14580
+  },
+  {
+    "level": 28,
+    "damage_multiplier_bp": 18100,
+    "warcry_attack_bonus_bp": 3850,
+    "next_fragments": 6,
+    "next_dust": 15680
+  },
+  {
+    "level": 29,
+    "damage_multiplier_bp": 18400,
+    "warcry_attack_bonus_bp": 3900,
+    "next_fragments": 6,
+    "next_dust": 16820
+  },
+  {
+    "level": 30,
+    "damage_multiplier_bp": 18700,
+    "warcry_attack_bonus_bp": 3950,
+    "next_fragments": null,
+    "next_dust": null
+  }
+]

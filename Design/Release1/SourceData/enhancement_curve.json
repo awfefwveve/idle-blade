@@ -1,0 +1,1811 @@
+[
+  {
+    "level": 0,
+    "weapon_bonus_bp": 0,
+    "armor_slot_bonus_bp": 0,
+    "weapon_next_ore": 5,
+    "weapon_next_gold": "100",
+    "armor_next_ore": 3,
+    "armor_next_gold": "80"
+  },
+  {
+    "level": 1,
+    "weapon_bonus_bp": 100,
+    "armor_slot_bonus_bp": 50,
+    "weapon_next_ore": 7,
+    "weapon_next_gold": "104",
+    "armor_next_ore": 4,
+    "armor_next_gold": "83"
+  },
+  {
+    "level": 2,
+    "weapon_bonus_bp": 200,
+    "armor_slot_bonus_bp": 100,
+    "weapon_next_ore": 9,
+    "weapon_next_gold": "108",
+    "armor_next_ore": 5,
+    "armor_next_gold": "86"
+  },
+  {
+    "level": 3,
+    "weapon_bonus_bp": 300,
+    "armor_slot_bonus_bp": 150,
+    "weapon_next_ore": 11,
+    "weapon_next_gold": "111",
+    "armor_next_ore": 6,
+    "armor_next_gold": "89"
+  },
+  {
+    "level": 4,
+    "weapon_bonus_bp": 400,
+    "armor_slot_bonus_bp": 200,
+    "weapon_next_ore": 13,
+    "weapon_next_gold": "115",
+    "armor_next_ore": 7,
+    "armor_next_gold": "92"
+  },
+  {
+    "level": 5,
+    "weapon_bonus_bp": 500,
+    "armor_slot_bonus_bp": 250,
+    "weapon_next_ore": 15,
+    "weapon_next_gold": "119",
+    "armor_next_ore": 8,
+    "armor_next_gold": "96"
+  },
+  {
+    "level": 6,
+    "weapon_bonus_bp": 600,
+    "armor_slot_bonus_bp": 300,
+    "weapon_next_ore": 17,
+    "weapon_next_gold": "123",
+    "armor_next_ore": 9,
+    "armor_next_gold": "99"
+  },
+  {
+    "level": 7,
+    "weapon_bonus_bp": 700,
+    "armor_slot_bonus_bp": 350,
+    "weapon_next_ore": 19,
+    "weapon_next_gold": "128",
+    "armor_next_ore": 10,
+    "armor_next_gold": "102"
+  },
+  {
+    "level": 8,
+    "weapon_bonus_bp": 800,
+    "armor_slot_bonus_bp": 400,
+    "weapon_next_ore": 21,
+    "weapon_next_gold": "132",
+    "armor_next_ore": 11,
+    "armor_next_gold": "106"
+  },
+  {
+    "level": 9,
+    "weapon_bonus_bp": 900,
+    "armor_slot_bonus_bp": 450,
+    "weapon_next_ore": 23,
+    "weapon_next_gold": "137",
+    "armor_next_ore": 12,
+    "armor_next_gold": "110"
+  },
+  {
+    "level": 10,
+    "weapon_bonus_bp": 1000,
+    "armor_slot_bonus_bp": 500,
+    "weapon_next_ore": 25,
+    "weapon_next_gold": "142",
+    "armor_next_ore": 13,
+    "armor_next_gold": "113"
+  },
+  {
+    "level": 11,
+    "weapon_bonus_bp": 1100,
+    "armor_slot_bonus_bp": 550,
+    "weapon_next_ore": 27,
+    "weapon_next_gold": "146",
+    "armor_next_ore": 14,
+    "armor_next_gold": "117"
+  },
+  {
+    "level": 12,
+    "weapon_bonus_bp": 1200,
+    "armor_slot_bonus_bp": 600,
+    "weapon_next_ore": 29,
+    "weapon_next_gold": "152",
+    "armor_next_ore": 15,
+    "armor_next_gold": "121"
+  },
+  {
+    "level": 13,
+    "weapon_bonus_bp": 1300,
+    "armor_slot_bonus_bp": 650,
+    "weapon_next_ore": 31,
+    "weapon_next_gold": "157",
+    "armor_next_ore": 16,
+    "armor_next_gold": "126"
+  },
+  {
+    "level": 14,
+    "weapon_bonus_bp": 1400,
+    "armor_slot_bonus_bp": 700,
+    "weapon_next_ore": 33,
+    "weapon_next_gold": "162",
+    "armor_next_ore": 17,
+    "armor_next_gold": "130"
+  },
+  {
+    "level": 15,
+    "weapon_bonus_bp": 1500,
+    "armor_slot_bonus_bp": 750,
+    "weapon_next_ore": 35,
+    "weapon_next_gold": "168",
+    "armor_next_ore": 18,
+    "armor_next_gold": "135"
+  },
+  {
+    "level": 16,
+    "weapon_bonus_bp": 1600,
+    "armor_slot_bonus_bp": 800,
+    "weapon_next_ore": 37,
+    "weapon_next_gold": "174",
+    "armor_next_ore": 19,
+    "armor_next_gold": "139"
+  },
+  {
+    "level": 17,
+    "weapon_bonus_bp": 1700,
+    "armor_slot_bonus_bp": 850,
+    "weapon_next_ore": 39,
+    "weapon_next_gold": "180",
+    "armor_next_ore": 20,
+    "armor_next_gold": "144"
+  },
+  {
+    "level": 18,
+    "weapon_bonus_bp": 1800,
+    "armor_slot_bonus_bp": 900,
+    "weapon_next_ore": 41,
+    "weapon_next_gold": "186",
+    "armor_next_ore": 21,
+    "armor_next_gold": "149"
+  },
+  {
+    "level": 19,
+    "weapon_bonus_bp": 1900,
+    "armor_slot_bonus_bp": 950,
+    "weapon_next_ore": 43,
+    "weapon_next_gold": "193",
+    "armor_next_ore": 22,
+    "armor_next_gold": "154"
+  },
+  {
+    "level": 20,
+    "weapon_bonus_bp": 2000,
+    "armor_slot_bonus_bp": 1000,
+    "weapon_next_ore": 45,
+    "weapon_next_gold": "199",
+    "armor_next_ore": 23,
+    "armor_next_gold": "160"
+  },
+  {
+    "level": 21,
+    "weapon_bonus_bp": 2100,
+    "armor_slot_bonus_bp": 1050,
+    "weapon_next_ore": 47,
+    "weapon_next_gold": "206",
+    "armor_next_ore": 24,
+    "armor_next_gold": "165"
+  },
+  {
+    "level": 22,
+    "weapon_bonus_bp": 2200,
+    "armor_slot_bonus_bp": 1100,
+    "weapon_next_ore": 49,
+    "weapon_next_gold": "214",
+    "armor_next_ore": 25,
+    "armor_next_gold": "171"
+  },
+  {
+    "level": 23,
+    "weapon_bonus_bp": 2300,
+    "armor_slot_bonus_bp": 1150,
+    "weapon_next_ore": 51,
+    "weapon_next_gold": "221",
+    "armor_next_ore": 26,
+    "armor_next_gold": "177"
+  },
+  {
+    "level": 24,
+    "weapon_bonus_bp": 2400,
+    "armor_slot_bonus_bp": 1200,
+    "weapon_next_ore": 53,
+    "weapon_next_gold": "229",
+    "armor_next_ore": 27,
+    "armor_next_gold": "183"
+  },
+  {
+    "level": 25,
+    "weapon_bonus_bp": 2500,
+    "armor_slot_bonus_bp": 1250,
+    "weapon_next_ore": 55,
+    "weapon_next_gold": "237",
+    "armor_next_ore": 28,
+    "armor_next_gold": "190"
+  },
+  {
+    "level": 26,
+    "weapon_bonus_bp": 2600,
+    "armor_slot_bonus_bp": 1300,
+    "weapon_next_ore": 57,
+    "weapon_next_gold": "245",
+    "armor_next_ore": 29,
+    "armor_next_gold": "196"
+  },
+  {
+    "level": 27,
+    "weapon_bonus_bp": 2700,
+    "armor_slot_bonus_bp": 1350,
+    "weapon_next_ore": 59,
+    "weapon_next_gold": "254",
+    "armor_next_ore": 30,
+    "armor_next_gold": "203"
+  },
+  {
+    "level": 28,
+    "weapon_bonus_bp": 2800,
+    "armor_slot_bonus_bp": 1400,
+    "weapon_next_ore": 61,
+    "weapon_next_gold": "263",
+    "armor_next_ore": 31,
+    "armor_next_gold": "210"
+  },
+  {
+    "level": 29,
+    "weapon_bonus_bp": 2900,
+    "armor_slot_bonus_bp": 1450,
+    "weapon_next_ore": 63,
+    "weapon_next_gold": "272",
+    "armor_next_ore": 32,
+    "armor_next_gold": "217"
+  },
+  {
+    "level": 30,
+    "weapon_bonus_bp": 3000,
+    "armor_slot_bonus_bp": 1500,
+    "weapon_next_ore": 65,
+    "weapon_next_gold": "281",
+    "armor_next_ore": 33,
+    "armor_next_gold": "225"
+  },
+  {
+    "level": 31,
+    "weapon_bonus_bp": 3100,
+    "armor_slot_bonus_bp": 1550,
+    "weapon_next_ore": 67,
+    "weapon_next_gold": "291",
+    "armor_next_ore": 34,
+    "armor_next_gold": "233"
+  },
+  {
+    "level": 32,
+    "weapon_bonus_bp": 3200,
+    "armor_slot_bonus_bp": 1600,
+    "weapon_next_ore": 69,
+    "weapon_next_gold": "301",
+    "armor_next_ore": 35,
+    "armor_next_gold": "241"
+  },
+  {
+    "level": 33,
+    "weapon_bonus_bp": 3300,
+    "armor_slot_bonus_bp": 1650,
+    "weapon_next_ore": 71,
+    "weapon_next_gold": "312",
+    "armor_next_ore": 36,
+    "armor_next_gold": "249"
+  },
+  {
+    "level": 34,
+    "weapon_bonus_bp": 3400,
+    "armor_slot_bonus_bp": 1700,
+    "weapon_next_ore": 73,
+    "weapon_next_gold": "323",
+    "armor_next_ore": 37,
+    "armor_next_gold": "258"
+  },
+  {
+    "level": 35,
+    "weapon_bonus_bp": 3500,
+    "armor_slot_bonus_bp": 1750,
+    "weapon_next_ore": 75,
+    "weapon_next_gold": "334",
+    "armor_next_ore": 38,
+    "armor_next_gold": "267"
+  },
+  {
+    "level": 36,
+    "weapon_bonus_bp": 3600,
+    "armor_slot_bonus_bp": 1800,
+    "weapon_next_ore": 77,
+    "weapon_next_gold": "346",
+    "armor_next_ore": 39,
+    "armor_next_gold": "277"
+  },
+  {
+    "level": 37,
+    "weapon_bonus_bp": 3700,
+    "armor_slot_bonus_bp": 1850,
+    "weapon_next_ore": 79,
+    "weapon_next_gold": "358",
+    "armor_next_ore": 40,
+    "armor_next_gold": "286"
+  },
+  {
+    "level": 38,
+    "weapon_bonus_bp": 3800,
+    "armor_slot_bonus_bp": 1900,
+    "weapon_next_ore": 81,
+    "weapon_next_gold": "370",
+    "armor_next_ore": 41,
+    "armor_next_gold": "296"
+  },
+  {
+    "level": 39,
+    "weapon_bonus_bp": 3900,
+    "armor_slot_bonus_bp": 1950,
+    "weapon_next_ore": 83,
+    "weapon_next_gold": "383",
+    "armor_next_ore": 42,
+    "armor_next_gold": "307"
+  },
+  {
+    "level": 40,
+    "weapon_bonus_bp": 4000,
+    "armor_slot_bonus_bp": 2000,
+    "weapon_next_ore": 85,
+    "weapon_next_gold": "396",
+    "armor_next_ore": 43,
+    "armor_next_gold": "317"
+  },
+  {
+    "level": 41,
+    "weapon_bonus_bp": 4100,
+    "armor_slot_bonus_bp": 2050,
+    "weapon_next_ore": 87,
+    "weapon_next_gold": "410",
+    "armor_next_ore": 44,
+    "armor_next_gold": "328"
+  },
+  {
+    "level": 42,
+    "weapon_bonus_bp": 4200,
+    "armor_slot_bonus_bp": 2100,
+    "weapon_next_ore": 89,
+    "weapon_next_gold": "425",
+    "armor_next_ore": 45,
+    "armor_next_gold": "340"
+  },
+  {
+    "level": 43,
+    "weapon_bonus_bp": 4300,
+    "armor_slot_bonus_bp": 2150,
+    "weapon_next_ore": 91,
+    "weapon_next_gold": "439",
+    "armor_next_ore": 46,
+    "armor_next_gold": "352"
+  },
+  {
+    "level": 44,
+    "weapon_bonus_bp": 4400,
+    "armor_slot_bonus_bp": 2200,
+    "weapon_next_ore": 93,
+    "weapon_next_gold": "455",
+    "armor_next_ore": 47,
+    "armor_next_gold": "364"
+  },
+  {
+    "level": 45,
+    "weapon_bonus_bp": 4500,
+    "armor_slot_bonus_bp": 2250,
+    "weapon_next_ore": 95,
+    "weapon_next_gold": "471",
+    "armor_next_ore": 48,
+    "armor_next_gold": "377"
+  },
+  {
+    "level": 46,
+    "weapon_bonus_bp": 4600,
+    "armor_slot_bonus_bp": 2300,
+    "weapon_next_ore": 97,
+    "weapon_next_gold": "487",
+    "armor_next_ore": 49,
+    "armor_next_gold": "390"
+  },
+  {
+    "level": 47,
+    "weapon_bonus_bp": 4700,
+    "armor_slot_bonus_bp": 2350,
+    "weapon_next_ore": 99,
+    "weapon_next_gold": "504",
+    "armor_next_ore": 50,
+    "armor_next_gold": "403"
+  },
+  {
+    "level": 48,
+    "weapon_bonus_bp": 4800,
+    "armor_slot_bonus_bp": 2400,
+    "weapon_next_ore": 101,
+    "weapon_next_gold": "522",
+    "armor_next_ore": 51,
+    "armor_next_gold": "418"
+  },
+  {
+    "level": 49,
+    "weapon_bonus_bp": 4900,
+    "armor_slot_bonus_bp": 2450,
+    "weapon_next_ore": 103,
+    "weapon_next_gold": "540",
+    "armor_next_ore": 52,
+    "armor_next_gold": "432"
+  },
+  {
+    "level": 50,
+    "weapon_bonus_bp": 5000,
+    "armor_slot_bonus_bp": 2500,
+    "weapon_next_ore": 105,
+    "weapon_next_gold": "559",
+    "armor_next_ore": 53,
+    "armor_next_gold": "447"
+  },
+  {
+    "level": 51,
+    "weapon_bonus_bp": 5100,
+    "armor_slot_bonus_bp": 2550,
+    "weapon_next_ore": 107,
+    "weapon_next_gold": "579",
+    "armor_next_ore": 54,
+    "armor_next_gold": "463"
+  },
+  {
+    "level": 52,
+    "weapon_bonus_bp": 5200,
+    "armor_slot_bonus_bp": 2600,
+    "weapon_next_ore": 109,
+    "weapon_next_gold": "599",
+    "armor_next_ore": 55,
+    "armor_next_gold": "479"
+  },
+  {
+    "level": 53,
+    "weapon_bonus_bp": 5300,
+    "armor_slot_bonus_bp": 2650,
+    "weapon_next_ore": 111,
+    "weapon_next_gold": "620",
+    "armor_next_ore": 56,
+    "armor_next_gold": "496"
+  },
+  {
+    "level": 54,
+    "weapon_bonus_bp": 5400,
+    "armor_slot_bonus_bp": 2700,
+    "weapon_next_ore": 113,
+    "weapon_next_gold": "641",
+    "armor_next_ore": 57,
+    "armor_next_gold": "513"
+  },
+  {
+    "level": 55,
+    "weapon_bonus_bp": 5500,
+    "armor_slot_bonus_bp": 2750,
+    "weapon_next_ore": 115,
+    "weapon_next_gold": "664",
+    "armor_next_ore": 58,
+    "armor_next_gold": "531"
+  },
+  {
+    "level": 56,
+    "weapon_bonus_bp": 5600,
+    "armor_slot_bonus_bp": 2800,
+    "weapon_next_ore": 117,
+    "weapon_next_gold": "687",
+    "armor_next_ore": 59,
+    "armor_next_gold": "550"
+  },
+  {
+    "level": 57,
+    "weapon_bonus_bp": 5700,
+    "armor_slot_bonus_bp": 2850,
+    "weapon_next_ore": 119,
+    "weapon_next_gold": "711",
+    "armor_next_ore": 60,
+    "armor_next_gold": "569"
+  },
+  {
+    "level": 58,
+    "weapon_bonus_bp": 5800,
+    "armor_slot_bonus_bp": 2900,
+    "weapon_next_ore": 121,
+    "weapon_next_gold": "736",
+    "armor_next_ore": 61,
+    "armor_next_gold": "589"
+  },
+  {
+    "level": 59,
+    "weapon_bonus_bp": 5900,
+    "armor_slot_bonus_bp": 2950,
+    "weapon_next_ore": 123,
+    "weapon_next_gold": "762",
+    "armor_next_ore": 62,
+    "armor_next_gold": "609"
+  },
+  {
+    "level": 60,
+    "weapon_bonus_bp": 6000,
+    "armor_slot_bonus_bp": 3000,
+    "weapon_next_ore": 125,
+    "weapon_next_gold": "788",
+    "armor_next_ore": 63,
+    "armor_next_gold": "631"
+  },
+  {
+    "level": 61,
+    "weapon_bonus_bp": 6100,
+    "armor_slot_bonus_bp": 3050,
+    "weapon_next_ore": 127,
+    "weapon_next_gold": "816",
+    "armor_next_ore": 64,
+    "armor_next_gold": "653"
+  },
+  {
+    "level": 62,
+    "weapon_bonus_bp": 6200,
+    "armor_slot_bonus_bp": 3100,
+    "weapon_next_ore": 129,
+    "weapon_next_gold": "844",
+    "armor_next_ore": 65,
+    "armor_next_gold": "676"
+  },
+  {
+    "level": 63,
+    "weapon_bonus_bp": 6300,
+    "armor_slot_bonus_bp": 3150,
+    "weapon_next_ore": 131,
+    "weapon_next_gold": "874",
+    "armor_next_ore": 66,
+    "armor_next_gold": "699"
+  },
+  {
+    "level": 64,
+    "weapon_bonus_bp": 6400,
+    "armor_slot_bonus_bp": 3200,
+    "weapon_next_ore": 133,
+    "weapon_next_gold": "905",
+    "armor_next_ore": 67,
+    "armor_next_gold": "724"
+  },
+  {
+    "level": 65,
+    "weapon_bonus_bp": 6500,
+    "armor_slot_bonus_bp": 3250,
+    "weapon_next_ore": 135,
+    "weapon_next_gold": "936",
+    "armor_next_ore": 68,
+    "armor_next_gold": "749"
+  },
+  {
+    "level": 66,
+    "weapon_bonus_bp": 6600,
+    "armor_slot_bonus_bp": 3300,
+    "weapon_next_ore": 137,
+    "weapon_next_gold": "969",
+    "armor_next_ore": 69,
+    "armor_next_gold": "775"
+  },
+  {
+    "level": 67,
+    "weapon_bonus_bp": 6700,
+    "armor_slot_bonus_bp": 3350,
+    "weapon_next_ore": 139,
+    "weapon_next_gold": "1003",
+    "armor_next_ore": 70,
+    "armor_next_gold": "802"
+  },
+  {
+    "level": 68,
+    "weapon_bonus_bp": 6800,
+    "armor_slot_bonus_bp": 3400,
+    "weapon_next_ore": 141,
+    "weapon_next_gold": "1038",
+    "armor_next_ore": 71,
+    "armor_next_gold": "830"
+  },
+  {
+    "level": 69,
+    "weapon_bonus_bp": 6900,
+    "armor_slot_bonus_bp": 3450,
+    "weapon_next_ore": 143,
+    "weapon_next_gold": "1074",
+    "armor_next_ore": 72,
+    "armor_next_gold": "859"
+  },
+  {
+    "level": 70,
+    "weapon_bonus_bp": 7000,
+    "armor_slot_bonus_bp": 3500,
+    "weapon_next_ore": 145,
+    "weapon_next_gold": "1112",
+    "armor_next_ore": 73,
+    "armor_next_gold": "890"
+  },
+  {
+    "level": 71,
+    "weapon_bonus_bp": 7100,
+    "armor_slot_bonus_bp": 3550,
+    "weapon_next_ore": 147,
+    "weapon_next_gold": "1151",
+    "armor_next_ore": 74,
+    "armor_next_gold": "921"
+  },
+  {
+    "level": 72,
+    "weapon_bonus_bp": 7200,
+    "armor_slot_bonus_bp": 3600,
+    "weapon_next_ore": 149,
+    "weapon_next_gold": "1191",
+    "armor_next_ore": 75,
+    "armor_next_gold": "953"
+  },
+  {
+    "level": 73,
+    "weapon_bonus_bp": 7300,
+    "armor_slot_bonus_bp": 3650,
+    "weapon_next_ore": 151,
+    "weapon_next_gold": "1233",
+    "armor_next_ore": 76,
+    "armor_next_gold": "986"
+  },
+  {
+    "level": 74,
+    "weapon_bonus_bp": 7400,
+    "armor_slot_bonus_bp": 3700,
+    "weapon_next_ore": 153,
+    "weapon_next_gold": "1276",
+    "armor_next_ore": 77,
+    "armor_next_gold": "1021"
+  },
+  {
+    "level": 75,
+    "weapon_bonus_bp": 7500,
+    "armor_slot_bonus_bp": 3750,
+    "weapon_next_ore": 155,
+    "weapon_next_gold": "1320",
+    "armor_next_ore": 78,
+    "armor_next_gold": "1056"
+  },
+  {
+    "level": 76,
+    "weapon_bonus_bp": 7600,
+    "armor_slot_bonus_bp": 3800,
+    "weapon_next_ore": 157,
+    "weapon_next_gold": "1367",
+    "armor_next_ore": 79,
+    "armor_next_gold": "1093"
+  },
+  {
+    "level": 77,
+    "weapon_bonus_bp": 7700,
+    "armor_slot_bonus_bp": 3850,
+    "weapon_next_ore": 159,
+    "weapon_next_gold": "1414",
+    "armor_next_ore": 80,
+    "armor_next_gold": "1132"
+  },
+  {
+    "level": 78,
+    "weapon_bonus_bp": 7800,
+    "armor_slot_bonus_bp": 3900,
+    "weapon_next_ore": 161,
+    "weapon_next_gold": "1464",
+    "armor_next_ore": 81,
+    "armor_next_gold": "1171"
+  },
+  {
+    "level": 79,
+    "weapon_bonus_bp": 7900,
+    "armor_slot_bonus_bp": 3950,
+    "weapon_next_ore": 163,
+    "weapon_next_gold": "1515",
+    "armor_next_ore": 82,
+    "armor_next_gold": "1212"
+  },
+  {
+    "level": 80,
+    "weapon_bonus_bp": 8000,
+    "armor_slot_bonus_bp": 4000,
+    "weapon_next_ore": 165,
+    "weapon_next_gold": "1568",
+    "armor_next_ore": 83,
+    "armor_next_gold": "1255"
+  },
+  {
+    "level": 81,
+    "weapon_bonus_bp": 8100,
+    "armor_slot_bonus_bp": 4050,
+    "weapon_next_ore": 167,
+    "weapon_next_gold": "1623",
+    "armor_next_ore": 84,
+    "armor_next_gold": "1298"
+  },
+  {
+    "level": 82,
+    "weapon_bonus_bp": 8200,
+    "armor_slot_bonus_bp": 4100,
+    "weapon_next_ore": 169,
+    "weapon_next_gold": "1680",
+    "armor_next_ore": 85,
+    "armor_next_gold": "1344"
+  },
+  {
+    "level": 83,
+    "weapon_bonus_bp": 8300,
+    "armor_slot_bonus_bp": 4150,
+    "weapon_next_ore": 171,
+    "weapon_next_gold": "1738",
+    "armor_next_ore": 86,
+    "armor_next_gold": "1391"
+  },
+  {
+    "level": 84,
+    "weapon_bonus_bp": 8400,
+    "armor_slot_bonus_bp": 4200,
+    "weapon_next_ore": 173,
+    "weapon_next_gold": "1799",
+    "armor_next_ore": 87,
+    "armor_next_gold": "1440"
+  },
+  {
+    "level": 85,
+    "weapon_bonus_bp": 8500,
+    "armor_slot_bonus_bp": 4250,
+    "weapon_next_ore": 175,
+    "weapon_next_gold": "1862",
+    "armor_next_ore": 88,
+    "armor_next_gold": "1490"
+  },
+  {
+    "level": 86,
+    "weapon_bonus_bp": 8600,
+    "armor_slot_bonus_bp": 4300,
+    "weapon_next_ore": 177,
+    "weapon_next_gold": "1927",
+    "armor_next_ore": 89,
+    "armor_next_gold": "1542"
+  },
+  {
+    "level": 87,
+    "weapon_bonus_bp": 8700,
+    "armor_slot_bonus_bp": 4350,
+    "weapon_next_ore": 179,
+    "weapon_next_gold": "1995",
+    "armor_next_ore": 90,
+    "armor_next_gold": "1596"
+  },
+  {
+    "level": 88,
+    "weapon_bonus_bp": 8800,
+    "armor_slot_bonus_bp": 4400,
+    "weapon_next_ore": 181,
+    "weapon_next_gold": "2065",
+    "armor_next_ore": 91,
+    "armor_next_gold": "1652"
+  },
+  {
+    "level": 89,
+    "weapon_bonus_bp": 8900,
+    "armor_slot_bonus_bp": 4450,
+    "weapon_next_ore": 183,
+    "weapon_next_gold": "2137",
+    "armor_next_ore": 92,
+    "armor_next_gold": "1710"
+  },
+  {
+    "level": 90,
+    "weapon_bonus_bp": 9000,
+    "armor_slot_bonus_bp": 4500,
+    "weapon_next_ore": 185,
+    "weapon_next_gold": "2212",
+    "armor_next_ore": 93,
+    "armor_next_gold": "1769"
+  },
+  {
+    "level": 91,
+    "weapon_bonus_bp": 9100,
+    "armor_slot_bonus_bp": 4550,
+    "weapon_next_ore": 187,
+    "weapon_next_gold": "2289",
+    "armor_next_ore": 94,
+    "armor_next_gold": "1831"
+  },
+  {
+    "level": 92,
+    "weapon_bonus_bp": 9200,
+    "armor_slot_bonus_bp": 4600,
+    "weapon_next_ore": 189,
+    "weapon_next_gold": "2369",
+    "armor_next_ore": 95,
+    "armor_next_gold": "1895"
+  },
+  {
+    "level": 93,
+    "weapon_bonus_bp": 9300,
+    "armor_slot_bonus_bp": 4650,
+    "weapon_next_ore": 191,
+    "weapon_next_gold": "2452",
+    "armor_next_ore": 96,
+    "armor_next_gold": "1962"
+  },
+  {
+    "level": 94,
+    "weapon_bonus_bp": 9400,
+    "armor_slot_bonus_bp": 4700,
+    "weapon_next_ore": 193,
+    "weapon_next_gold": "2538",
+    "armor_next_ore": 97,
+    "armor_next_gold": "2030"
+  },
+  {
+    "level": 95,
+    "weapon_bonus_bp": 9500,
+    "armor_slot_bonus_bp": 4750,
+    "weapon_next_ore": 195,
+    "weapon_next_gold": "2627",
+    "armor_next_ore": 98,
+    "armor_next_gold": "2101"
+  },
+  {
+    "level": 96,
+    "weapon_bonus_bp": 9600,
+    "armor_slot_bonus_bp": 4800,
+    "weapon_next_ore": 197,
+    "weapon_next_gold": "2719",
+    "armor_next_ore": 99,
+    "armor_next_gold": "2175"
+  },
+  {
+    "level": 97,
+    "weapon_bonus_bp": 9700,
+    "armor_slot_bonus_bp": 4850,
+    "weapon_next_ore": 199,
+    "weapon_next_gold": "2814",
+    "armor_next_ore": 100,
+    "armor_next_gold": "2251"
+  },
+  {
+    "level": 98,
+    "weapon_bonus_bp": 9800,
+    "armor_slot_bonus_bp": 4900,
+    "weapon_next_ore": 201,
+    "weapon_next_gold": "2912",
+    "armor_next_ore": 101,
+    "armor_next_gold": "2330"
+  },
+  {
+    "level": 99,
+    "weapon_bonus_bp": 9900,
+    "armor_slot_bonus_bp": 4950,
+    "weapon_next_ore": 203,
+    "weapon_next_gold": "3014",
+    "armor_next_ore": 102,
+    "armor_next_gold": "2411"
+  },
+  {
+    "level": 100,
+    "weapon_bonus_bp": 10000,
+    "armor_slot_bonus_bp": 5000,
+    "weapon_next_ore": 205,
+    "weapon_next_gold": "3120",
+    "armor_next_ore": 103,
+    "armor_next_gold": "2496"
+  },
+  {
+    "level": 101,
+    "weapon_bonus_bp": 10100,
+    "armor_slot_bonus_bp": 5050,
+    "weapon_next_ore": 207,
+    "weapon_next_gold": "3229",
+    "armor_next_ore": 104,
+    "armor_next_gold": "2583"
+  },
+  {
+    "level": 102,
+    "weapon_bonus_bp": 10200,
+    "armor_slot_bonus_bp": 5100,
+    "weapon_next_ore": 209,
+    "weapon_next_gold": "3342",
+    "armor_next_ore": 105,
+    "armor_next_gold": "2674"
+  },
+  {
+    "level": 103,
+    "weapon_bonus_bp": 10300,
+    "armor_slot_bonus_bp": 5150,
+    "weapon_next_ore": 211,
+    "weapon_next_gold": "3459",
+    "armor_next_ore": 106,
+    "armor_next_gold": "2767"
+  },
+  {
+    "level": 104,
+    "weapon_bonus_bp": 10400,
+    "armor_slot_bonus_bp": 5200,
+    "weapon_next_ore": 213,
+    "weapon_next_gold": "3580",
+    "armor_next_ore": 107,
+    "armor_next_gold": "2864"
+  },
+  {
+    "level": 105,
+    "weapon_bonus_bp": 10500,
+    "armor_slot_bonus_bp": 5250,
+    "weapon_next_ore": 215,
+    "weapon_next_gold": "3705",
+    "armor_next_ore": 108,
+    "armor_next_gold": "2964"
+  },
+  {
+    "level": 106,
+    "weapon_bonus_bp": 10600,
+    "armor_slot_bonus_bp": 5300,
+    "weapon_next_ore": 217,
+    "weapon_next_gold": "3835",
+    "armor_next_ore": 109,
+    "armor_next_gold": "3068"
+  },
+  {
+    "level": 107,
+    "weapon_bonus_bp": 10700,
+    "armor_slot_bonus_bp": 5350,
+    "weapon_next_ore": 219,
+    "weapon_next_gold": "3969",
+    "armor_next_ore": 110,
+    "armor_next_gold": "3175"
+  },
+  {
+    "level": 108,
+    "weapon_bonus_bp": 10800,
+    "armor_slot_bonus_bp": 5400,
+    "weapon_next_ore": 221,
+    "weapon_next_gold": "4108",
+    "armor_next_ore": 111,
+    "armor_next_gold": "3286"
+  },
+  {
+    "level": 109,
+    "weapon_bonus_bp": 10900,
+    "armor_slot_bonus_bp": 5450,
+    "weapon_next_ore": 223,
+    "weapon_next_gold": "4252",
+    "armor_next_ore": 112,
+    "armor_next_gold": "3401"
+  },
+  {
+    "level": 110,
+    "weapon_bonus_bp": 11000,
+    "armor_slot_bonus_bp": 5500,
+    "weapon_next_ore": 225,
+    "weapon_next_gold": "4400",
+    "armor_next_ore": 113,
+    "armor_next_gold": "3520"
+  },
+  {
+    "level": 111,
+    "weapon_bonus_bp": 11100,
+    "armor_slot_bonus_bp": 5550,
+    "weapon_next_ore": 227,
+    "weapon_next_gold": "4554",
+    "armor_next_ore": 114,
+    "armor_next_gold": "3644"
+  },
+  {
+    "level": 112,
+    "weapon_bonus_bp": 11200,
+    "armor_slot_bonus_bp": 5600,
+    "weapon_next_ore": 229,
+    "weapon_next_gold": "4714",
+    "armor_next_ore": 115,
+    "armor_next_gold": "3771"
+  },
+  {
+    "level": 113,
+    "weapon_bonus_bp": 11300,
+    "armor_slot_bonus_bp": 5650,
+    "weapon_next_ore": 231,
+    "weapon_next_gold": "4879",
+    "armor_next_ore": 116,
+    "armor_next_gold": "3903"
+  },
+  {
+    "level": 114,
+    "weapon_bonus_bp": 11400,
+    "armor_slot_bonus_bp": 5700,
+    "weapon_next_ore": 233,
+    "weapon_next_gold": "5049",
+    "armor_next_ore": 117,
+    "armor_next_gold": "4040"
+  },
+  {
+    "level": 115,
+    "weapon_bonus_bp": 11500,
+    "armor_slot_bonus_bp": 5750,
+    "weapon_next_ore": 235,
+    "weapon_next_gold": "5226",
+    "armor_next_ore": 118,
+    "armor_next_gold": "4181"
+  },
+  {
+    "level": 116,
+    "weapon_bonus_bp": 11600,
+    "armor_slot_bonus_bp": 5800,
+    "weapon_next_ore": 237,
+    "weapon_next_gold": "5409",
+    "armor_next_ore": 119,
+    "armor_next_gold": "4327"
+  },
+  {
+    "level": 117,
+    "weapon_bonus_bp": 11700,
+    "armor_slot_bonus_bp": 5850,
+    "weapon_next_ore": 239,
+    "weapon_next_gold": "5598",
+    "armor_next_ore": 120,
+    "armor_next_gold": "4479"
+  },
+  {
+    "level": 118,
+    "weapon_bonus_bp": 11800,
+    "armor_slot_bonus_bp": 5900,
+    "weapon_next_ore": 241,
+    "weapon_next_gold": "5794",
+    "armor_next_ore": 121,
+    "armor_next_gold": "4636"
+  },
+  {
+    "level": 119,
+    "weapon_bonus_bp": 11900,
+    "armor_slot_bonus_bp": 5950,
+    "weapon_next_ore": 243,
+    "weapon_next_gold": "5997",
+    "armor_next_ore": 122,
+    "armor_next_gold": "4798"
+  },
+  {
+    "level": 120,
+    "weapon_bonus_bp": 12000,
+    "armor_slot_bonus_bp": 6000,
+    "weapon_next_ore": 245,
+    "weapon_next_gold": "6207",
+    "armor_next_ore": 123,
+    "armor_next_gold": "4966"
+  },
+  {
+    "level": 121,
+    "weapon_bonus_bp": 12100,
+    "armor_slot_bonus_bp": 6050,
+    "weapon_next_ore": 247,
+    "weapon_next_gold": "6424",
+    "armor_next_ore": 124,
+    "armor_next_gold": "5139"
+  },
+  {
+    "level": 122,
+    "weapon_bonus_bp": 12200,
+    "armor_slot_bonus_bp": 6100,
+    "weapon_next_ore": 249,
+    "weapon_next_gold": "6649",
+    "armor_next_ore": 125,
+    "armor_next_gold": "5319"
+  },
+  {
+    "level": 123,
+    "weapon_bonus_bp": 12300,
+    "armor_slot_bonus_bp": 6150,
+    "weapon_next_ore": 251,
+    "weapon_next_gold": "6882",
+    "armor_next_ore": 126,
+    "armor_next_gold": "5505"
+  },
+  {
+    "level": 124,
+    "weapon_bonus_bp": 12400,
+    "armor_slot_bonus_bp": 6200,
+    "weapon_next_ore": 253,
+    "weapon_next_gold": "7123",
+    "armor_next_ore": 127,
+    "armor_next_gold": "5698"
+  },
+  {
+    "level": 125,
+    "weapon_bonus_bp": 12500,
+    "armor_slot_bonus_bp": 6250,
+    "weapon_next_ore": 255,
+    "weapon_next_gold": "7372",
+    "armor_next_ore": 128,
+    "armor_next_gold": "5898"
+  },
+  {
+    "level": 126,
+    "weapon_bonus_bp": 12600,
+    "armor_slot_bonus_bp": 6300,
+    "weapon_next_ore": 257,
+    "weapon_next_gold": "7630",
+    "armor_next_ore": 129,
+    "armor_next_gold": "6104"
+  },
+  {
+    "level": 127,
+    "weapon_bonus_bp": 12700,
+    "armor_slot_bonus_bp": 6350,
+    "weapon_next_ore": 259,
+    "weapon_next_gold": "7897",
+    "armor_next_ore": 130,
+    "armor_next_gold": "6318"
+  },
+  {
+    "level": 128,
+    "weapon_bonus_bp": 12800,
+    "armor_slot_bonus_bp": 6400,
+    "weapon_next_ore": 261,
+    "weapon_next_gold": "8173",
+    "armor_next_ore": 131,
+    "armor_next_gold": "6539"
+  },
+  {
+    "level": 129,
+    "weapon_bonus_bp": 12900,
+    "armor_slot_bonus_bp": 6450,
+    "weapon_next_ore": 263,
+    "weapon_next_gold": "8459",
+    "armor_next_ore": 132,
+    "armor_next_gold": "6767"
+  },
+  {
+    "level": 130,
+    "weapon_bonus_bp": 13000,
+    "armor_slot_bonus_bp": 6500,
+    "weapon_next_ore": 265,
+    "weapon_next_gold": "8755",
+    "armor_next_ore": 133,
+    "armor_next_gold": "7004"
+  },
+  {
+    "level": 131,
+    "weapon_bonus_bp": 13100,
+    "armor_slot_bonus_bp": 6550,
+    "weapon_next_ore": 267,
+    "weapon_next_gold": "9062",
+    "armor_next_ore": 134,
+    "armor_next_gold": "7249"
+  },
+  {
+    "level": 132,
+    "weapon_bonus_bp": 13200,
+    "armor_slot_bonus_bp": 6600,
+    "weapon_next_ore": 269,
+    "weapon_next_gold": "9379",
+    "armor_next_ore": 135,
+    "armor_next_gold": "7503"
+  },
+  {
+    "level": 133,
+    "weapon_bonus_bp": 13300,
+    "armor_slot_bonus_bp": 6650,
+    "weapon_next_ore": 271,
+    "weapon_next_gold": "9707",
+    "armor_next_ore": 136,
+    "armor_next_gold": "7766"
+  },
+  {
+    "level": 134,
+    "weapon_bonus_bp": 13400,
+    "armor_slot_bonus_bp": 6700,
+    "weapon_next_ore": 273,
+    "weapon_next_gold": "10047",
+    "armor_next_ore": 137,
+    "armor_next_gold": "8038"
+  },
+  {
+    "level": 135,
+    "weapon_bonus_bp": 13500,
+    "armor_slot_bonus_bp": 6750,
+    "weapon_next_ore": 275,
+    "weapon_next_gold": "10398",
+    "armor_next_ore": 138,
+    "armor_next_gold": "8319"
+  },
+  {
+    "level": 136,
+    "weapon_bonus_bp": 13600,
+    "armor_slot_bonus_bp": 6800,
+    "weapon_next_ore": 277,
+    "weapon_next_gold": "10762",
+    "armor_next_ore": 139,
+    "armor_next_gold": "8610"
+  },
+  {
+    "level": 137,
+    "weapon_bonus_bp": 13700,
+    "armor_slot_bonus_bp": 6850,
+    "weapon_next_ore": 279,
+    "weapon_next_gold": "11139",
+    "armor_next_ore": 140,
+    "armor_next_gold": "8911"
+  },
+  {
+    "level": 138,
+    "weapon_bonus_bp": 13800,
+    "armor_slot_bonus_bp": 6900,
+    "weapon_next_ore": 281,
+    "weapon_next_gold": "11529",
+    "armor_next_ore": 141,
+    "armor_next_gold": "9223"
+  },
+  {
+    "level": 139,
+    "weapon_bonus_bp": 13900,
+    "armor_slot_bonus_bp": 6950,
+    "weapon_next_ore": 283,
+    "weapon_next_gold": "11932",
+    "armor_next_ore": 142,
+    "armor_next_gold": "9546"
+  },
+  {
+    "level": 140,
+    "weapon_bonus_bp": 14000,
+    "armor_slot_bonus_bp": 7000,
+    "weapon_next_ore": 285,
+    "weapon_next_gold": "12350",
+    "armor_next_ore": 143,
+    "armor_next_gold": "9880"
+  },
+  {
+    "level": 141,
+    "weapon_bonus_bp": 14100,
+    "armor_slot_bonus_bp": 7050,
+    "weapon_next_ore": 287,
+    "weapon_next_gold": "12782",
+    "armor_next_ore": 144,
+    "armor_next_gold": "10226"
+  },
+  {
+    "level": 142,
+    "weapon_bonus_bp": 14200,
+    "armor_slot_bonus_bp": 7100,
+    "weapon_next_ore": 289,
+    "weapon_next_gold": "13230",
+    "armor_next_ore": 145,
+    "armor_next_gold": "10584"
+  },
+  {
+    "level": 143,
+    "weapon_bonus_bp": 14300,
+    "armor_slot_bonus_bp": 7150,
+    "weapon_next_ore": 291,
+    "weapon_next_gold": "13693",
+    "armor_next_ore": 146,
+    "armor_next_gold": "10954"
+  },
+  {
+    "level": 144,
+    "weapon_bonus_bp": 14400,
+    "armor_slot_bonus_bp": 7200,
+    "weapon_next_ore": 293,
+    "weapon_next_gold": "14172",
+    "armor_next_ore": 147,
+    "armor_next_gold": "11338"
+  },
+  {
+    "level": 145,
+    "weapon_bonus_bp": 14500,
+    "armor_slot_bonus_bp": 7250,
+    "weapon_next_ore": 295,
+    "weapon_next_gold": "14668",
+    "armor_next_ore": 148,
+    "armor_next_gold": "11734"
+  },
+  {
+    "level": 146,
+    "weapon_bonus_bp": 14600,
+    "armor_slot_bonus_bp": 7300,
+    "weapon_next_ore": 297,
+    "weapon_next_gold": "15181",
+    "armor_next_ore": 149,
+    "armor_next_gold": "12145"
+  },
+  {
+    "level": 147,
+    "weapon_bonus_bp": 14700,
+    "armor_slot_bonus_bp": 7350,
+    "weapon_next_ore": 299,
+    "weapon_next_gold": "15712",
+    "armor_next_ore": 150,
+    "armor_next_gold": "12570"
+  },
+  {
+    "level": 148,
+    "weapon_bonus_bp": 14800,
+    "armor_slot_bonus_bp": 7400,
+    "weapon_next_ore": 301,
+    "weapon_next_gold": "16262",
+    "armor_next_ore": 151,
+    "armor_next_gold": "13010"
+  },
+  {
+    "level": 149,
+    "weapon_bonus_bp": 14900,
+    "armor_slot_bonus_bp": 7450,
+    "weapon_next_ore": 303,
+    "weapon_next_gold": "16832",
+    "armor_next_ore": 152,
+    "armor_next_gold": "13465"
+  },
+  {
+    "level": 150,
+    "weapon_bonus_bp": 15000,
+    "armor_slot_bonus_bp": 7500,
+    "weapon_next_ore": 305,
+    "weapon_next_gold": "17421",
+    "armor_next_ore": 153,
+    "armor_next_gold": "13937"
+  },
+  {
+    "level": 151,
+    "weapon_bonus_bp": 15100,
+    "armor_slot_bonus_bp": 7550,
+    "weapon_next_ore": 307,
+    "weapon_next_gold": "18030",
+    "armor_next_ore": 154,
+    "armor_next_gold": "14424"
+  },
+  {
+    "level": 152,
+    "weapon_bonus_bp": 15200,
+    "armor_slot_bonus_bp": 7600,
+    "weapon_next_ore": 309,
+    "weapon_next_gold": "18661",
+    "armor_next_ore": 155,
+    "armor_next_gold": "14929"
+  },
+  {
+    "level": 153,
+    "weapon_bonus_bp": 15300,
+    "armor_slot_bonus_bp": 7650,
+    "weapon_next_ore": 311,
+    "weapon_next_gold": "19315",
+    "armor_next_ore": 156,
+    "armor_next_gold": "15452"
+  },
+  {
+    "level": 154,
+    "weapon_bonus_bp": 15400,
+    "armor_slot_bonus_bp": 7700,
+    "weapon_next_ore": 313,
+    "weapon_next_gold": "19991",
+    "armor_next_ore": 157,
+    "armor_next_gold": "15993"
+  },
+  {
+    "level": 155,
+    "weapon_bonus_bp": 15500,
+    "armor_slot_bonus_bp": 7750,
+    "weapon_next_ore": 315,
+    "weapon_next_gold": "20690",
+    "armor_next_ore": 158,
+    "armor_next_gold": "16552"
+  },
+  {
+    "level": 156,
+    "weapon_bonus_bp": 15600,
+    "armor_slot_bonus_bp": 7800,
+    "weapon_next_ore": 317,
+    "weapon_next_gold": "21414",
+    "armor_next_ore": 159,
+    "armor_next_gold": "17132"
+  },
+  {
+    "level": 157,
+    "weapon_bonus_bp": 15700,
+    "armor_slot_bonus_bp": 7850,
+    "weapon_next_ore": 319,
+    "weapon_next_gold": "22164",
+    "armor_next_ore": 160,
+    "armor_next_gold": "17731"
+  },
+  {
+    "level": 158,
+    "weapon_bonus_bp": 15800,
+    "armor_slot_bonus_bp": 7900,
+    "weapon_next_ore": 321,
+    "weapon_next_gold": "22940",
+    "armor_next_ore": 161,
+    "armor_next_gold": "18352"
+  },
+  {
+    "level": 159,
+    "weapon_bonus_bp": 15900,
+    "armor_slot_bonus_bp": 7950,
+    "weapon_next_ore": 323,
+    "weapon_next_gold": "23742",
+    "armor_next_ore": 162,
+    "armor_next_gold": "18994"
+  },
+  {
+    "level": 160,
+    "weapon_bonus_bp": 16000,
+    "armor_slot_bonus_bp": 8000,
+    "weapon_next_ore": 325,
+    "weapon_next_gold": "24573",
+    "armor_next_ore": 163,
+    "armor_next_gold": "19659"
+  },
+  {
+    "level": 161,
+    "weapon_bonus_bp": 16100,
+    "armor_slot_bonus_bp": 8050,
+    "weapon_next_ore": 327,
+    "weapon_next_gold": "25433",
+    "armor_next_ore": 164,
+    "armor_next_gold": "20347"
+  },
+  {
+    "level": 162,
+    "weapon_bonus_bp": 16200,
+    "armor_slot_bonus_bp": 8100,
+    "weapon_next_ore": 329,
+    "weapon_next_gold": "26324",
+    "armor_next_ore": 165,
+    "armor_next_gold": "21059"
+  },
+  {
+    "level": 163,
+    "weapon_bonus_bp": 16300,
+    "armor_slot_bonus_bp": 8150,
+    "weapon_next_ore": 331,
+    "weapon_next_gold": "27245",
+    "armor_next_ore": 166,
+    "armor_next_gold": "21796"
+  },
+  {
+    "level": 164,
+    "weapon_bonus_bp": 16400,
+    "armor_slot_bonus_bp": 8200,
+    "weapon_next_ore": 333,
+    "weapon_next_gold": "28198",
+    "armor_next_ore": 167,
+    "armor_next_gold": "22559"
+  },
+  {
+    "level": 165,
+    "weapon_bonus_bp": 16500,
+    "armor_slot_bonus_bp": 8250,
+    "weapon_next_ore": 335,
+    "weapon_next_gold": "29185",
+    "armor_next_ore": 168,
+    "armor_next_gold": "23348"
+  },
+  {
+    "level": 166,
+    "weapon_bonus_bp": 16600,
+    "armor_slot_bonus_bp": 8300,
+    "weapon_next_ore": 337,
+    "weapon_next_gold": "30207",
+    "armor_next_ore": 169,
+    "armor_next_gold": "24166"
+  },
+  {
+    "level": 167,
+    "weapon_bonus_bp": 16700,
+    "armor_slot_bonus_bp": 8350,
+    "weapon_next_ore": 339,
+    "weapon_next_gold": "31264",
+    "armor_next_ore": 170,
+    "armor_next_gold": "25011"
+  },
+  {
+    "level": 168,
+    "weapon_bonus_bp": 16800,
+    "armor_slot_bonus_bp": 8400,
+    "weapon_next_ore": 341,
+    "weapon_next_gold": "32358",
+    "armor_next_ore": 171,
+    "armor_next_gold": "25887"
+  },
+  {
+    "level": 169,
+    "weapon_bonus_bp": 16900,
+    "armor_slot_bonus_bp": 8450,
+    "weapon_next_ore": 343,
+    "weapon_next_gold": "33491",
+    "armor_next_ore": 172,
+    "armor_next_gold": "26793"
+  },
+  {
+    "level": 170,
+    "weapon_bonus_bp": 17000,
+    "armor_slot_bonus_bp": 8500,
+    "weapon_next_ore": 345,
+    "weapon_next_gold": "34663",
+    "armor_next_ore": 173,
+    "armor_next_gold": "27730"
+  },
+  {
+    "level": 171,
+    "weapon_bonus_bp": 17100,
+    "armor_slot_bonus_bp": 8550,
+    "weapon_next_ore": 347,
+    "weapon_next_gold": "35876",
+    "armor_next_ore": 174,
+    "armor_next_gold": "28701"
+  },
+  {
+    "level": 172,
+    "weapon_bonus_bp": 17200,
+    "armor_slot_bonus_bp": 8600,
+    "weapon_next_ore": 349,
+    "weapon_next_gold": "37132",
+    "armor_next_ore": 175,
+    "armor_next_gold": "29706"
+  },
+  {
+    "level": 173,
+    "weapon_bonus_bp": 17300,
+    "armor_slot_bonus_bp": 8650,
+    "weapon_next_ore": 351,
+    "weapon_next_gold": "38431",
+    "armor_next_ore": 176,
+    "armor_next_gold": "30745"
+  },
+  {
+    "level": 174,
+    "weapon_bonus_bp": 17400,
+    "armor_slot_bonus_bp": 8700,
+    "weapon_next_ore": 353,
+    "weapon_next_gold": "39776",
+    "armor_next_ore": 177,
+    "armor_next_gold": "31821"
+  },
+  {
+    "level": 175,
+    "weapon_bonus_bp": 17500,
+    "armor_slot_bonus_bp": 8750,
+    "weapon_next_ore": 355,
+    "weapon_next_gold": "41169",
+    "armor_next_ore": 178,
+    "armor_next_gold": "32935"
+  },
+  {
+    "level": 176,
+    "weapon_bonus_bp": 17600,
+    "armor_slot_bonus_bp": 8800,
+    "weapon_next_ore": 357,
+    "weapon_next_gold": "42610",
+    "armor_next_ore": 179,
+    "armor_next_gold": "34088"
+  },
+  {
+    "level": 177,
+    "weapon_bonus_bp": 17700,
+    "armor_slot_bonus_bp": 8850,
+    "weapon_next_ore": 359,
+    "weapon_next_gold": "44101",
+    "armor_next_ore": 180,
+    "armor_next_gold": "35281"
+  },
+  {
+    "level": 178,
+    "weapon_bonus_bp": 17800,
+    "armor_slot_bonus_bp": 8900,
+    "weapon_next_ore": 361,
+    "weapon_next_gold": "45644",
+    "armor_next_ore": 181,
+    "armor_next_gold": "36516"
+  },
+  {
+    "level": 179,
+    "weapon_bonus_bp": 17900,
+    "armor_slot_bonus_bp": 8950,
+    "weapon_next_ore": 363,
+    "weapon_next_gold": "47242",
+    "armor_next_ore": 182,
+    "armor_next_gold": "37794"
+  },
+  {
+    "level": 180,
+    "weapon_bonus_bp": 18000,
+    "armor_slot_bonus_bp": 9000,
+    "weapon_next_ore": 365,
+    "weapon_next_gold": "48895",
+    "armor_next_ore": 183,
+    "armor_next_gold": "39116"
+  },
+  {
+    "level": 181,
+    "weapon_bonus_bp": 18100,
+    "armor_slot_bonus_bp": 9050,
+    "weapon_next_ore": 367,
+    "weapon_next_gold": "50607",
+    "armor_next_ore": 184,
+    "armor_next_gold": "40485"
+  },
+  {
+    "level": 182,
+    "weapon_bonus_bp": 18200,
+    "armor_slot_bonus_bp": 9100,
+    "weapon_next_ore": 369,
+    "weapon_next_gold": "52378",
+    "armor_next_ore": 185,
+    "armor_next_gold": "41902"
+  },
+  {
+    "level": 183,
+    "weapon_bonus_bp": 18300,
+    "armor_slot_bonus_bp": 9150,
+    "weapon_next_ore": 371,
+    "weapon_next_gold": "54211",
+    "armor_next_ore": 186,
+    "armor_next_gold": "43369"
+  },
+  {
+    "level": 184,
+    "weapon_bonus_bp": 18400,
+    "armor_slot_bonus_bp": 9200,
+    "weapon_next_ore": 373,
+    "weapon_next_gold": "56108",
+    "armor_next_ore": 187,
+    "armor_next_gold": "44887"
+  },
+  {
+    "level": 185,
+    "weapon_bonus_bp": 18500,
+    "armor_slot_bonus_bp": 9250,
+    "weapon_next_ore": 375,
+    "weapon_next_gold": "58072",
+    "armor_next_ore": 188,
+    "armor_next_gold": "46458"
+  },
+  {
+    "level": 186,
+    "weapon_bonus_bp": 18600,
+    "armor_slot_bonus_bp": 9300,
+    "weapon_next_ore": 377,
+    "weapon_next_gold": "60105",
+    "armor_next_ore": 189,
+    "armor_next_gold": "48084"
+  },
+  {
+    "level": 187,
+    "weapon_bonus_bp": 18700,
+    "armor_slot_bonus_bp": 9350,
+    "weapon_next_ore": 379,
+    "weapon_next_gold": "62208",
+    "armor_next_ore": 190,
+    "armor_next_gold": "49767"
+  },
+  {
+    "level": 188,
+    "weapon_bonus_bp": 18800,
+    "armor_slot_bonus_bp": 9400,
+    "weapon_next_ore": 381,
+    "weapon_next_gold": "64386",
+    "armor_next_ore": 191,
+    "armor_next_gold": "51509"
+  },
+  {
+    "level": 189,
+    "weapon_bonus_bp": 18900,
+    "armor_slot_bonus_bp": 9450,
+    "weapon_next_ore": 383,
+    "weapon_next_gold": "66639",
+    "armor_next_ore": 192,
+    "armor_next_gold": "53311"
+  },
+  {
+    "level": 190,
+    "weapon_bonus_bp": 19000,
+    "armor_slot_bonus_bp": 9500,
+    "weapon_next_ore": 385,
+    "weapon_next_gold": "68971",
+    "armor_next_ore": 193,
+    "armor_next_gold": "55177"
+  },
+  {
+    "level": 191,
+    "weapon_bonus_bp": 19100,
+    "armor_slot_bonus_bp": 9550,
+    "weapon_next_ore": 387,
+    "weapon_next_gold": "71385",
+    "armor_next_ore": 194,
+    "armor_next_gold": "57108"
+  },
+  {
+    "level": 192,
+    "weapon_bonus_bp": 19200,
+    "armor_slot_bonus_bp": 9600,
+    "weapon_next_ore": 389,
+    "weapon_next_gold": "73884",
+    "armor_next_ore": 195,
+    "armor_next_gold": "59107"
+  },
+  {
+    "level": 193,
+    "weapon_bonus_bp": 19300,
+    "armor_slot_bonus_bp": 9650,
+    "weapon_next_ore": 391,
+    "weapon_next_gold": "76470",
+    "armor_next_ore": 196,
+    "armor_next_gold": "61176"
+  },
+  {
+    "level": 194,
+    "weapon_bonus_bp": 19400,
+    "armor_slot_bonus_bp": 9700,
+    "weapon_next_ore": 393,
+    "weapon_next_gold": "79146",
+    "armor_next_ore": 197,
+    "armor_next_gold": "63317"
+  },
+  {
+    "level": 195,
+    "weapon_bonus_bp": 19500,
+    "armor_slot_bonus_bp": 9750,
+    "weapon_next_ore": 395,
+    "weapon_next_gold": "81916",
+    "armor_next_ore": 198,
+    "armor_next_gold": "65533"
+  },
+  {
+    "level": 196,
+    "weapon_bonus_bp": 19600,
+    "armor_slot_bonus_bp": 9800,
+    "weapon_next_ore": 397,
+    "weapon_next_gold": "84783",
+    "armor_next_ore": 199,
+    "armor_next_gold": "67827"
+  },
+  {
+    "level": 197,
+    "weapon_bonus_bp": 19700,
+    "armor_slot_bonus_bp": 9850,
+    "weapon_next_ore": 399,
+    "weapon_next_gold": "87751",
+    "armor_next_ore": 200,
+    "armor_next_gold": "70201"
+  },
+  {
+    "level": 198,
+    "weapon_bonus_bp": 19800,
+    "armor_slot_bonus_bp": 9900,
+    "weapon_next_ore": 401,
+    "weapon_next_gold": "90822",
+    "armor_next_ore": 201,
+    "armor_next_gold": "72658"
+  },
+  {
+    "level": 199,
+    "weapon_bonus_bp": 19900,
+    "armor_slot_bonus_bp": 9950,
+    "weapon_next_ore": 403,
+    "weapon_next_gold": "94001",
+    "armor_next_ore": 202,
+    "armor_next_gold": "75201"
+  },
+  {
+    "level": 200,
+    "weapon_bonus_bp": 20000,
+    "armor_slot_bonus_bp": 10000,
+    "weapon_next_ore": null,
+    "weapon_next_gold": null,
+    "armor_next_ore": null,
+    "armor_next_gold": null
+  }
+]

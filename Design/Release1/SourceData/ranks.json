@@ -1,0 +1,50 @@
+[
+  {
+    "rank": 0,
+    "name": "추방자",
+    "required_stage": 0,
+    "attack_hp_multiplier_bp": 10000,
+    "reward_talent_points": 0,
+    "visual": "기본 외형"
+  },
+  {
+    "rank": 1,
+    "name": "전사",
+    "required_stage": 20,
+    "attack_hp_multiplier_bp": 15000,
+    "reward_talent_points": 1,
+    "visual": "어깨 가죽, 흰 오라"
+  },
+  {
+    "rank": 2,
+    "name": "광전사",
+    "required_stage": 60,
+    "attack_hp_multiplier_bp": 23000,
+    "reward_talent_points": 1,
+    "visual": "철제 장갑, 붉은 오라"
+  },
+  {
+    "rank": 3,
+    "name": "부족영웅",
+    "required_stage": 120,
+    "attack_hp_multiplier_bp": 36000,
+    "reward_talent_points": 1,
+    "visual": "등 문양, 주황 오라"
+  },
+  {
+    "rank": 4,
+    "name": "전쟁군주",
+    "required_stage": 220,
+    "attack_hp_multiplier_bp": 58000,
+    "reward_talent_points": 1,
+    "visual": "금속 어깨, 금빛 오라"
+  },
+  {
+    "rank": 5,
+    "name": "선조의화신",
+    "required_stage": 350,
+    "attack_hp_multiplier_bp": 95000,
+    "reward_talent_points": 1,
+    "visual": "선조 문양, 자주빛 오라"
+  }
+]

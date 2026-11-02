@@ -1,0 +1,25 @@
+[
+  {
+    "id": "F_START",
+    "condition": "계정 최초 생성",
+    "rewards": {
+      "gold": 100,
+      "license_W_AXE_G1": 1,
+      "license_A_BODY_G1": 1
+    }
+  },
+  {
+    "id": "F_BOSS_1",
+    "condition": "메인 1 최초 클리어",
+    "rewards": {
+      "license_W_AXE_G2": 1
+    }
+  },
+  {
+    "id": "F_SUMMON",
+    "condition": "메인 2 최초 클리어",
+    "rewards": {
+      "ticket_weapon": 10
+    }
+  }
+]

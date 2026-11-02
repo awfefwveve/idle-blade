@@ -1,0 +1,93 @@
+[
+  {
+    "id": "N01",
+    "label": "성장 과제 1",
+    "earliest_account_day": 1,
+    "stage_clear": 5,
+    "rewards": {
+      "gems_free": 100,
+      "ore": 50,
+      "ticket_weapon": 5
+    },
+    "expires": false,
+    "note": "계정 시작 후 일일 기준일 누적 개방; 미접속해도 지난 날 과제 유지; 순서대로 수령"
+  },
+  {
+    "id": "N02",
+    "label": "성장 과제 2",
+    "earliest_account_day": 2,
+    "stage_clear": 20,
+    "rewards": {
+      "gems_free": 150,
+      "ore": 100,
+      "ticket_weapon": 5
+    },
+    "expires": false,
+    "note": "계정 시작 후 일일 기준일 누적 개방; 미접속해도 지난 날 과제 유지; 순서대로 수령"
+  },
+  {
+    "id": "N03",
+    "label": "성장 과제 3",
+    "earliest_account_day": 3,
+    "stage_clear": 40,
+    "rewards": {
+      "gems_free": 200,
+      "ore": 150,
+      "ticket_weapon": 10
+    },
+    "expires": false,
+    "note": "계정 시작 후 일일 기준일 누적 개방; 미접속해도 지난 날 과제 유지; 순서대로 수령"
+  },
+  {
+    "id": "N04",
+    "label": "성장 과제 4",
+    "earliest_account_day": 4,
+    "stage_clear": 60,
+    "rewards": {
+      "gems_free": 200,
+      "ore": 200,
+      "ticket_weapon": 10
+    },
+    "expires": false,
+    "note": "계정 시작 후 일일 기준일 누적 개방; 미접속해도 지난 날 과제 유지; 순서대로 수령"
+  },
+  {
+    "id": "N05",
+    "label": "성장 과제 5",
+    "earliest_account_day": 5,
+    "stage_clear": 100,
+    "rewards": {
+      "gems_free": 250,
+      "ore": 250,
+      "ticket_weapon": 10
+    },
+    "expires": false,
+    "note": "계정 시작 후 일일 기준일 누적 개방; 미접속해도 지난 날 과제 유지; 순서대로 수령"
+  },
+  {
+    "id": "N06",
+    "label": "성장 과제 6",
+    "earliest_account_day": 6,
+    "stage_clear": 150,
+    "rewards": {
+      "gems_free": 300,
+      "ore": 300,
+      "ticket_weapon": 15
+    },
+    "expires": false,
+    "note": "계정 시작 후 일일 기준일 누적 개방; 미접속해도 지난 날 과제 유지; 순서대로 수령"
+  },
+  {
+    "id": "N07",
+    "label": "성장 과제 7",
+    "earliest_account_day": 7,
+    "stage_clear": 200,
+    "rewards": {
+      "gems_free": 500,
+      "ore": 500,
+      "ticket_weapon": 20
+    },
+    "expires": false,
+    "note": "계정 시작 후 일일 기준일 누적 개방; 미접속해도 지난 날 과제 유지; 순서대로 수령"
+  }
+]

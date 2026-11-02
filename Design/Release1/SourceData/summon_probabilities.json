@@ -1,0 +1,56 @@
+[
+  {
+    "banner": "WEAPON_OR_ARMOR",
+    "grade": 1,
+    "name": "일반",
+    "weight": 500000,
+    "weight_total": 1000000,
+    "normal_probability": "0.5",
+    "pity_probability": "0"
+  },
+  {
+    "banner": "WEAPON_OR_ARMOR",
+    "grade": 2,
+    "name": "고급",
+    "weight": 280000,
+    "weight_total": 1000000,
+    "normal_probability": "0.28",
+    "pity_probability": "0"
+  },
+  {
+    "banner": "WEAPON_OR_ARMOR",
+    "grade": 3,
+    "name": "희귀",
+    "weight": 150000,
+    "weight_total": 1000000,
+    "normal_probability": "0.15",
+    "pity_probability": "0"
+  },
+  {
+    "banner": "WEAPON_OR_ARMOR",
+    "grade": 4,
+    "name": "영웅",
+    "weight": 55000,
+    "weight_total": 1000000,
+    "normal_probability": "0.055",
+    "pity_probability": "0"
+  },
+  {
+    "banner": "WEAPON_OR_ARMOR",
+    "grade": 5,
+    "name": "전설",
+    "weight": 14000,
+    "weight_total": 1000000,
+    "normal_probability": "0.014",
+    "pity_probability": "0.999"
+  },
+  {
+    "banner": "WEAPON_OR_ARMOR",
+    "grade": 6,
+    "name": "신화",
+    "weight": 1000,
+    "weight_total": 1000000,
+    "normal_probability": "0.001",
+    "pity_probability": "0.001"
+  }
+]

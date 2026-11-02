@@ -1,0 +1,134 @@
+[
+  {
+    "id": "R01",
+    "name": "전사의송곳니",
+    "stat_key": "attack_add_bp",
+    "per_level": 50,
+    "effect": "공격력",
+    "unlock_stage": 30,
+    "craft_shards": 100,
+    "max_level": 50,
+    "asset_key": "artifact/r01"
+  },
+  {
+    "id": "R02",
+    "name": "거인의심장",
+    "stat_key": "hp_add_bp",
+    "per_level": 50,
+    "effect": "최대 HP",
+    "unlock_stage": 30,
+    "craft_shards": 100,
+    "max_level": 50,
+    "asset_key": "artifact/r02"
+  },
+  {
+    "id": "R03",
+    "name": "매의눈",
+    "stat_key": "crit_chance_bp",
+    "per_level": 5,
+    "effect": "치명타 확률",
+    "unlock_stage": 30,
+    "craft_shards": 100,
+    "max_level": 50,
+    "asset_key": "artifact/r03"
+  },
+  {
+    "id": "R04",
+    "name": "깨진왕관",
+    "stat_key": "crit_damage_bp",
+    "per_level": 20,
+    "effect": "치명타 피해",
+    "unlock_stage": 30,
+    "craft_shards": 100,
+    "max_level": 50,
+    "asset_key": "artifact/r04"
+  },
+  {
+    "id": "R05",
+    "name": "선조의팔찌",
+    "stat_key": "skill_damage_bp",
+    "per_level": 50,
+    "effect": "스킬 피해",
+    "unlock_stage": 30,
+    "craft_shards": 100,
+    "max_level": 50,
+    "asset_key": "artifact/r05"
+  },
+  {
+    "id": "R06",
+    "name": "사냥꾼숫돌",
+    "stat_key": "basic_damage_bp",
+    "per_level": 50,
+    "effect": "일반공격 피해",
+    "unlock_stage": 30,
+    "craft_shards": 100,
+    "max_level": 50,
+    "asset_key": "artifact/r06"
+  },
+  {
+    "id": "R07",
+    "name": "타오르는재",
+    "stat_key": "rage_duration_ms",
+    "per_level": 20,
+    "effect": "광폭화 시간(ms)",
+    "unlock_stage": 30,
+    "craft_shards": 100,
+    "max_level": 50,
+    "asset_key": "artifact/r07"
+  },
+  {
+    "id": "R08",
+    "name": "붉은뿔",
+    "stat_key": "rage_gain_bp",
+    "per_level": 30,
+    "effect": "분노 획득량",
+    "unlock_stage": 30,
+    "craft_shards": 100,
+    "max_level": 50,
+    "asset_key": "artifact/r08"
+  },
+  {
+    "id": "R09",
+    "name": "황금발톱",
+    "stat_key": "gold_bonus_bp",
+    "per_level": 30,
+    "effect": "골드 획득",
+    "unlock_stage": 30,
+    "craft_shards": 100,
+    "max_level": 50,
+    "asset_key": "artifact/r09"
+  },
+  {
+    "id": "R10",
+    "name": "피의잔",
+    "stat_key": "lifesteal_bp",
+    "per_level": 2,
+    "effect": "흡혈",
+    "unlock_stage": 30,
+    "craft_shards": 100,
+    "max_level": 50,
+    "asset_key": "artifact/r10"
+  },
+  {
+    "id": "R11",
+    "name": "검은비늘",
+    "stat_key": "damage_reduction_bp",
+    "per_level": 5,
+    "effect": "피해 감소",
+    "unlock_stage": 30,
+    "craft_shards": 100,
+    "max_level": 50,
+    "asset_key": "artifact/r11"
+  },
+  {
+    "id": "R12",
+    "name": "학살자의징표",
+    "stat_key": "boss_damage_bp",
+    "per_level": 50,
+    "effect": "보스 피해",
+    "unlock_stage": 30,
+    "craft_shards": 100,
+    "max_level": 50,
+    "asset_key": "artifact/r12"
+  }
+]

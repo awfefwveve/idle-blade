@@ -1,0 +1,62 @@
+[
+  {
+    "id": "B01",
+    "name": "그룬, 약탈대장",
+    "region_id": "C01",
+    "theme": "압박",
+    "normal_attack_interval_ms": 2000,
+    "attack_multiplier_bp": 60000,
+    "skill_cycle_ms": 8000,
+    "skill_description": "8초마다 0.8초 예고 뒤 200% 강타. 체력 40% 아래 공격속도 +20%.",
+    "boss_cc_immune": true,
+    "asset_key": "boss/b01"
+  },
+  {
+    "id": "B02",
+    "name": "모르가, 가시여왕",
+    "region_id": "C02",
+    "theme": "소환",
+    "normal_attack_interval_ms": 2000,
+    "attack_multiplier_bp": 60000,
+    "skill_cycle_ms": 8000,
+    "skill_description": "8초마다 잡몹 4마리 소환; 동시에 생존한 소환몹 최대 8. 소환몹 보상 0.",
+    "boss_cc_immune": true,
+    "asset_key": "boss/b02"
+  },
+  {
+    "id": "B03",
+    "name": "브라크, 용광로지기",
+    "region_id": "C03",
+    "theme": "방어",
+    "normal_attack_interval_ms": 2000,
+    "attack_multiplier_bp": 60000,
+    "skill_cycle_ms": 8000,
+    "skill_description": "8초마다 3초간 피해 감소 +30%p; 해제 직후 150% 강타.",
+    "boss_cc_immune": true,
+    "asset_key": "boss/b03"
+  },
+  {
+    "id": "B04",
+    "name": "스카른, 서리망령",
+    "region_id": "C04",
+    "theme": "감속",
+    "normal_attack_interval_ms": 2000,
+    "attack_multiplier_bp": 60000,
+    "skill_cycle_ms": 8000,
+    "skill_description": "8초마다 4초간 플레이어 공격속도 -20%; 같은 효과 중첩 없이 갱신.",
+    "boss_cc_immune": true,
+    "asset_key": "boss/b04"
+  },
+  {
+    "id": "B05",
+    "name": "카르둠, 타락한선조",
+    "region_id": "C05",
+    "theme": "종합",
+    "normal_attack_interval_ms": 2000,
+    "attack_multiplier_bp": 60000,
+    "skill_cycle_ms": 8000,
+    "skill_description": "8초 소환 2마리, 16초 3초 방어 +20%p, 24초 200% 강타; 반복.",
+    "boss_cc_immune": true,
+    "asset_key": "boss/b05"
+  }
+]

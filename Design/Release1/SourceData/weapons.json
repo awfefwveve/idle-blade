@@ -1,0 +1,182 @@
+[
+  {
+    "id": "W_AXE_G1",
+    "name": "거친 도끼",
+    "family_id": "AXE",
+    "grade": 1,
+    "attack_multiplier_bp": 10000,
+    "salvage_ore": 1,
+    "next_id": "W_AXE_G2",
+    "asset_key": "weapon/axe/g1"
+  },
+  {
+    "id": "W_AXE_G2",
+    "name": "강철 도끼",
+    "family_id": "AXE",
+    "grade": 2,
+    "attack_multiplier_bp": 16500,
+    "salvage_ore": 3,
+    "next_id": "W_AXE_G3",
+    "asset_key": "weapon/axe/g2"
+  },
+  {
+    "id": "W_AXE_G3",
+    "name": "수호자의 도끼",
+    "family_id": "AXE",
+    "grade": 3,
+    "attack_multiplier_bp": 27000,
+    "salvage_ore": 10,
+    "next_id": "W_AXE_G4",
+    "asset_key": "weapon/axe/g3"
+  },
+  {
+    "id": "W_AXE_G4",
+    "name": "광전사의 도끼",
+    "family_id": "AXE",
+    "grade": 4,
+    "attack_multiplier_bp": 44000,
+    "salvage_ore": 30,
+    "next_id": "W_AXE_G5",
+    "asset_key": "weapon/axe/g4"
+  },
+  {
+    "id": "W_AXE_G5",
+    "name": "왕의 도끼",
+    "family_id": "AXE",
+    "grade": 5,
+    "attack_multiplier_bp": 72000,
+    "salvage_ore": 100,
+    "next_id": "W_AXE_G6",
+    "asset_key": "weapon/axe/g5"
+  },
+  {
+    "id": "W_AXE_G6",
+    "name": "태고의 도끼",
+    "family_id": "AXE",
+    "grade": 6,
+    "attack_multiplier_bp": 120000,
+    "salvage_ore": 300,
+    "next_id": "",
+    "asset_key": "weapon/axe/g6"
+  },
+  {
+    "id": "W_SWORD_G1",
+    "name": "거친 대검",
+    "family_id": "SWORD",
+    "grade": 1,
+    "attack_multiplier_bp": 10000,
+    "salvage_ore": 1,
+    "next_id": "W_SWORD_G2",
+    "asset_key": "weapon/sword/g1"
+  },
+  {
+    "id": "W_SWORD_G2",
+    "name": "강철 대검",
+    "family_id": "SWORD",
+    "grade": 2,
+    "attack_multiplier_bp": 16500,
+    "salvage_ore": 3,
+    "next_id": "W_SWORD_G3",
+    "asset_key": "weapon/sword/g2"
+  },
+  {
+    "id": "W_SWORD_G3",
+    "name": "수호자의 대검",
+    "family_id": "SWORD",
+    "grade": 3,
+    "attack_multiplier_bp": 27000,
+    "salvage_ore": 10,
+    "next_id": "W_SWORD_G4",
+    "asset_key": "weapon/sword/g3"
+  },
+  {
+    "id": "W_SWORD_G4",
+    "name": "광전사의 대검",
+    "family_id": "SWORD",
+    "grade": 4,
+    "attack_multiplier_bp": 44000,
+    "salvage_ore": 30,
+    "next_id": "W_SWORD_G5",
+    "asset_key": "weapon/sword/g4"
+  },
+  {
+    "id": "W_SWORD_G5",
+    "name": "왕의 대검",
+    "family_id": "SWORD",
+    "grade": 5,
+    "attack_multiplier_bp": 72000,
+    "salvage_ore": 100,
+    "next_id": "W_SWORD_G6",
+    "asset_key": "weapon/sword/g5"
+  },
+  {
+    "id": "W_SWORD_G6",
+    "name": "태고의 대검",
+    "family_id": "SWORD",
+    "grade": 6,
+    "attack_multiplier_bp": 120000,
+    "salvage_ore": 300,
+    "next_id": "",
+    "asset_key": "weapon/sword/g6"
+  },
+  {
+    "id": "W_HAMMER_G1",
+    "name": "거친 망치",
+    "family_id": "HAMMER",
+    "grade": 1,
+    "attack_multiplier_bp": 10000,
+    "salvage_ore": 1,
+    "next_id": "W_HAMMER_G2",
+    "asset_key": "weapon/hammer/g1"
+  },
+  {
+    "id": "W_HAMMER_G2",
+    "name": "강철 망치",
+    "family_id": "HAMMER",
+    "grade": 2,
+    "attack_multiplier_bp": 16500,
+    "salvage_ore": 3,
+    "next_id": "W_HAMMER_G3",
+    "asset_key": "weapon/hammer/g2"
+  },
+  {
+    "id": "W_HAMMER_G3",
+    "name": "수호자의 망치",
+    "family_id": "HAMMER",
+    "grade": 3,
+    "attack_multiplier_bp": 27000,
+    "salvage_ore": 10,
+    "next_id": "W_HAMMER_G4",
+    "asset_key": "weapon/hammer/g3"
+  },
+  {
+    "id": "W_HAMMER_G4",
+    "name": "광전사의 망치",
+    "family_id": "HAMMER",
+    "grade": 4,
+    "attack_multiplier_bp": 44000,
+    "salvage_ore": 30,
+    "next_id": "W_HAMMER_G5",
+    "asset_key": "weapon/hammer/g4"
+  },
+  {
+    "id": "W_HAMMER_G5",
+    "name": "왕의 망치",
+    "family_id": "HAMMER",
+    "grade": 5,
+    "attack_multiplier_bp": 72000,
+    "salvage_ore": 100,
+    "next_id": "W_HAMMER_G6",
+    "asset_key": "weapon/hammer/g5"
+  },
+  {
+    "id": "W_HAMMER_G6",
+    "name": "태고의 망치",
+    "family_id": "HAMMER",
+    "grade": 6,
+    "attack_multiplier_bp": 120000,
+    "salvage_ore": 300,
+    "next_id": "",
+    "asset_key": "weapon/hammer/g6"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "C01",
+    "name": "핏빛초원",
+    "first_stage": 1,
+    "last_stage": 100,
+    "monster_ids": [
+      "M011",
+      "M012",
+      "M013"
+    ],
+    "boss_id": "B01",
+    "art_notes": "풀·흙·말뚝"
+  },
+  {
+    "id": "C02",
+    "name": "검은숲",
+    "first_stage": 101,
+    "last_stage": 200,
+    "monster_ids": [
+      "M021",
+      "M022",
+      "M023"
+    ],
+    "boss_id": "B02",
+    "art_notes": "검은 나무·보라 안개"
+  },
+  {
+    "id": "C03",
+    "name": "잿불광산",
+    "first_stage": 201,
+    "last_stage": 300,
+    "monster_ids": [
+      "M031",
+      "M032",
+      "M033"
+    ],
+    "boss_id": "B03",
+    "art_notes": "용암·레일·용광로"
+  },
+  {
+    "id": "C04",
+    "name": "얼음무덤",
+    "first_stage": 301,
+    "last_stage": 400,
+    "monster_ids": [
+      "M041",
+      "M042",
+      "M043"
+    ],
+    "boss_id": "B04",
+    "art_notes": "푸른 얼음·돌기둥"
+  },
+  {
+    "id": "C05",
+    "name": "선조의폐허",
+    "first_stage": 401,
+    "last_stage": 500,
+    "monster_ids": [
+      "M051",
+      "M052",
+      "M053"
+    ],
+    "boss_id": "B05",
+    "art_notes": "자주빛 룬·거대 석상"
+  }
+]

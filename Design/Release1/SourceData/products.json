@@ -1,0 +1,219 @@
+[
+  {
+    "id": "P_START",
+    "name": "전사의 출발",
+    "target_price_krw": 2200,
+    "store_type": "consumable",
+    "limit": "account_once",
+    "unlock_stage": 3,
+    "rewards": {
+      "gems_paid": 200,
+      "ticket_weapon": 20,
+      "fragment_S01": 10,
+      "ore": 100
+    },
+    "entitlement": "",
+    "note": "",
+    "price_status": "기획 목표가; 실제 현지화 가격은 스토어 SDK 응답",
+    "store_product_id": "REQUIRES_STORE_SETUP"
+  },
+  {
+    "id": "P_AD_REMOVE",
+    "name": "평생 광고 제거",
+    "target_price_krw": 11900,
+    "store_type": "non_consumable",
+    "limit": "account_once",
+    "unlock_stage": 3,
+    "rewards": {},
+    "entitlement": "ad_remove_lifetime",
+    "note": "모든 보상형 위치, 조건·횟수 유지, 추후 보상형 위치도 포함",
+    "price_status": "기획 목표가; 실제 현지화 가격은 스토어 SDK 응답",
+    "store_product_id": "REQUIRES_STORE_SETUP"
+  },
+  {
+    "id": "P_MONTHLY",
+    "name": "30일 보급권",
+    "target_price_krw": 5900,
+    "store_type": "consumable",
+    "limit": "one_active",
+    "unlock_stage": 3,
+    "rewards": {
+      "gems_paid": 300
+    },
+    "entitlement": "supply_30_instalments",
+    "note": "구매 즉시 1회 포함 24시간마다 무료 보석 100; 총 30회; 발생 수령권 무기한",
+    "price_status": "기획 목표가; 실제 현지화 가격은 스토어 SDK 응답",
+    "store_product_id": "REQUIRES_STORE_SETUP"
+  },
+  {
+    "id": "P_PASS",
+    "name": "원정 성장 패스",
+    "target_price_krw": 11900,
+    "store_type": "non_consumable",
+    "limit": "account_once",
+    "unlock_stage": 3,
+    "rewards": {},
+    "entitlement": "growth_pass_lifetime",
+    "note": "",
+    "price_status": "기획 목표가; 실제 현지화 가격은 스토어 SDK 응답",
+    "store_product_id": "REQUIRES_STORE_SETUP"
+  },
+  {
+    "id": "P_WEEKLY",
+    "name": "주간 무기 보급",
+    "target_price_krw": 5500,
+    "store_type": "consumable",
+    "limit": "weekly_once",
+    "unlock_stage": 15,
+    "rewards": {
+      "ticket_weapon": 20,
+      "ticket_skill": 10,
+      "ore": 500
+    },
+    "entitlement": "",
+    "note": "",
+    "price_status": "기획 목표가; 실제 현지화 가격은 스토어 SDK 응답",
+    "store_product_id": "REQUIRES_STORE_SETUP"
+  },
+  {
+    "id": "P_STAGE_1",
+    "name": "지역 돌파 보급 1",
+    "target_price_krw": 11000,
+    "store_type": "consumable",
+    "limit": "account_once",
+    "unlock_stage": 100,
+    "rewards": {
+      "ticket_weapon": 50,
+      "ticket_armor": 50,
+      "ore": 1000
+    },
+    "entitlement": "",
+    "note": "",
+    "price_status": "기획 목표가; 실제 현지화 가격은 스토어 SDK 응답",
+    "store_product_id": "REQUIRES_STORE_SETUP"
+  },
+  {
+    "id": "P_STAGE_2",
+    "name": "지역 돌파 보급 2",
+    "target_price_krw": 11000,
+    "store_type": "consumable",
+    "limit": "account_once",
+    "unlock_stage": 200,
+    "rewards": {
+      "ticket_weapon": 50,
+      "ticket_armor": 50,
+      "ore": 1000
+    },
+    "entitlement": "",
+    "note": "",
+    "price_status": "기획 목표가; 실제 현지화 가격은 스토어 SDK 응답",
+    "store_product_id": "REQUIRES_STORE_SETUP"
+  },
+  {
+    "id": "P_STAGE_3",
+    "name": "지역 돌파 보급 3",
+    "target_price_krw": 11000,
+    "store_type": "consumable",
+    "limit": "account_once",
+    "unlock_stage": 300,
+    "rewards": {
+      "ticket_weapon": 50,
+      "ticket_armor": 50,
+      "ore": 1000
+    },
+    "entitlement": "",
+    "note": "",
+    "price_status": "기획 목표가; 실제 현지화 가격은 스토어 SDK 응답",
+    "store_product_id": "REQUIRES_STORE_SETUP"
+  },
+  {
+    "id": "P_SKIN_FIRE",
+    "name": "불꽃 무기 외형",
+    "target_price_krw": 5500,
+    "store_type": "non_consumable",
+    "limit": "account_once",
+    "unlock_stage": 20,
+    "rewards": {},
+    "entitlement": "cosmetic_fire",
+    "note": "능력치 없음; 계열별 호환 오버레이",
+    "price_status": "기획 목표가; 실제 현지화 가격은 스토어 SDK 응답",
+    "store_product_id": "REQUIRES_STORE_SETUP"
+  },
+  {
+    "id": "P_SKIN_IRON",
+    "name": "철혈 전사 의복",
+    "target_price_krw": 5500,
+    "store_type": "non_consumable",
+    "limit": "account_once",
+    "unlock_stage": 20,
+    "rewards": {},
+    "entitlement": "cosmetic_iron",
+    "note": "능력치 없음; 계열별 호환 오버레이",
+    "price_status": "기획 목표가; 실제 현지화 가격은 스토어 SDK 응답",
+    "store_product_id": "REQUIRES_STORE_SETUP"
+  },
+  {
+    "id": "P_GEM_1",
+    "name": "보석 보급 1",
+    "target_price_krw": 3300,
+    "store_type": "consumable",
+    "limit": "none",
+    "unlock_stage": 3,
+    "rewards": {
+      "gems_paid": 300,
+      "gems_free": 30
+    },
+    "entitlement": "",
+    "note": "",
+    "price_status": "기획 목표가; 실제 현지화 가격은 스토어 SDK 응답",
+    "store_product_id": "REQUIRES_STORE_SETUP"
+  },
+  {
+    "id": "P_GEM_2",
+    "name": "보석 보급 2",
+    "target_price_krw": 11000,
+    "store_type": "consumable",
+    "limit": "none",
+    "unlock_stage": 3,
+    "rewards": {
+      "gems_paid": 1000,
+      "gems_free": 150
+    },
+    "entitlement": "",
+    "note": "",
+    "price_status": "기획 목표가; 실제 현지화 가격은 스토어 SDK 응답",
+    "store_product_id": "REQUIRES_STORE_SETUP"
+  },
+  {
+    "id": "P_GEM_3",
+    "name": "보석 보급 3",
+    "target_price_krw": 33000,
+    "store_type": "consumable",
+    "limit": "none",
+    "unlock_stage": 3,
+    "rewards": {
+      "gems_paid": 3000,
+      "gems_free": 600
+    },
+    "entitlement": "",
+    "note": "",
+    "price_status": "기획 목표가; 실제 현지화 가격은 스토어 SDK 응답",
+    "store_product_id": "REQUIRES_STORE_SETUP"
+  },
+  {
+    "id": "P_GEM_4",
+    "name": "보석 보급 4",
+    "target_price_krw": 55000,
+    "store_type": "consumable",
+    "limit": "none",
+    "unlock_stage": 3,
+    "rewards": {
+      "gems_paid": 5000,
+      "gems_free": 1250
+    },
+    "entitlement": "",
+    "note": "",
+    "price_status": "기획 목표가; 실제 현지화 가격은 스토어 SDK 응답",
+    "store_product_id": "REQUIRES_STORE_SETUP"
+  }
+]

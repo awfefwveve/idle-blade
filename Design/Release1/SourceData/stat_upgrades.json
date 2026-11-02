@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ATK",
+    "name": "공격력",
+    "cap": 3000,
+    "effect": "floor((25+2*L)*1.001^L)",
+    "cost": "ceil(15*1.008^L)",
+    "base_cost": 15,
+    "growth": "1.008",
+    "unlock_stage": 0
+  },
+  {
+    "id": "HP",
+    "name": "체력",
+    "cap": 3000,
+    "effect": "floor((250+20*L)*1.001^L)",
+    "cost": "ceil(10*1.008^L)",
+    "base_cost": 10,
+    "growth": "1.008",
+    "unlock_stage": 0
+  },
+  {
+    "id": "ASPD",
+    "name": "공격속도",
+    "cap": 100,
+    "effect": "공격속도 보너스 +50bp/레벨",
+    "cost": "ceil(100*1.06^L)",
+    "base_cost": 100,
+    "growth": "1.06",
+    "unlock_stage": 3
+  },
+  {
+    "id": "CRIT",
+    "name": "치명타 확률",
+    "cap": 150,
+    "effect": "기본 5% +20bp/레벨",
+    "cost": "ceil(120*1.05^L)",
+    "base_cost": 120,
+    "growth": "1.05",
+    "unlock_stage": 5
+  },
+  {
+    "id": "CRIT_DMG",
+    "name": "치명타 피해",
+    "cap": 200,
+    "effect": "기본 150% +100bp/레벨",
+    "cost": "ceil(120*1.05^L)",
+    "base_cost": 120,
+    "growth": "1.05",
+    "unlock_stage": 5
+  },
+  {
+    "id": "REGEN",
+    "name": "생명 회복",
+    "cap": 100,
+    "effect": "초당 최대 HP의 +1bp/레벨",
+    "cost": "ceil(80*1.05^L)",
+    "base_cost": 80,
+    "growth": "1.05",
+    "unlock_stage": 10
+  }
+]

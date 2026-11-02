@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddec915e38eb1d644be7de65e24526cd, type: 3}
+  m_Name: DefaultTheme
+  m_EditorClassIdentifier: Assembly-CSharp::IdleBlade.ArtTheme
+  heroIdle: {fileID: 0}
+  heroAttack: {fileID: 0}
+  enemyIdle: {fileID: 0}
+  enemyHit: {fileID: 0}
+  battlefield: {fileID: 0}
+  uiFont: {fileID: 0}
+  framesPerSecond: 8
